@@ -4,16 +4,26 @@ import requests
 def fetch_github_stars(username, token):
     url = f'https://api.github.com/users/{username}/starred'
     headers = {'Authorization': f'token {token}'}
-    response = requests.get(url, headers=headers)
-    stars = response.json()
-    
-    while 'next' in response.links.keys():
-        response = requests.get(response.links['next']['url'], headers=headers)
-        stars.extend(response.json())
-        
-    return stars
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()  # Raise exception for non-2xx responses
+        stars = response.json()
+
+        while 'next' in response.links.keys():
+            response = requests.get(response.links['next']['url'], headers=headers)
+            response.raise_for_status()  # Raise exception for non-2xx responses
+            stars.extend(response.json())
+
+        return stars
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching GitHub stars: {e}")
+        return None
 
 def generate_markdown(stars):
+    if not stars:
+        return ""
+
     markdown_lines = ["# GitHub Stars\n"]
     for repo in stars:
         markdown_lines.append(f"## [{repo['name']}]({repo['html_url']})\n")
@@ -24,26 +34,13 @@ def generate_markdown(stars):
     return "\n".join(markdown_lines)
 
 def save_markdown(content, filepath):
-    with open(filepath, 'w') as f:
-        f.write(content)
+    try:
+        with open(filepath, 'w') as f:
+            f.write(content)
+        print(f"Markdown content saved to {filepath}")
 
-def sort_repositories(stars, sort_by='stars'):
-    # Example sorting by stars count
-    stars_sorted = sorted(stars, key=lambda x: x['stargazers_count'], reverse=True)
-    return stars_sorted
-
-def filter_repositories(stars, min_stars=0, language=None):
-    # Example filtering by minimum stars and optional language
-    stars_filtered = [repo for repo in stars if repo['stargazers_count'] >= min_stars]
-    if language:
-        stars_filtered = [repo for repo in stars_filtered if repo['language'] == language]
-    return stars_filtered
-
-def search_repositories(stars, keyword):
-    # Example searching by keyword in repository name or description
-    stars_searched = [repo for repo in stars if keyword.lower() in repo['name'].lower() or 
-                      (repo['description'] and keyword.lower() in repo['description'].lower())]
-    return stars_searched
+    except IOError as e:
+        print(f"Error saving markdown content: {e}")
 
 def main():
     username = os.getenv('MY_GITHUB_USERNAME')
@@ -52,15 +49,16 @@ def main():
         raise ValueError("MY_GITHUB_USERNAME and RANDOKEY environment variables must be set")
 
     stars = fetch_github_stars(username, token)
-    
-    # Example usage of sort, filter, and search
-    stars_sorted = sort_repositories(stars, sort_by='stars')
-    stars_filtered = filter_repositories(stars_sorted, min_stars=1000, language='Python')
-    stars_searched = search_repositories(stars_filtered, keyword='awesome')
+    if stars is None:
+        print("Failed to fetch GitHub stars. Check your credentials and network connection.")
+        return
 
-    markdown_content = generate_markdown(stars_searched)
-    save_markdown(markdown_content, 'index.md')
-    print(markdown_content)
+    markdown_content = generate_markdown(stars)
+    if markdown_content:
+        save_markdown(markdown_content, 'index.md')
+        print(markdown_content)
+    else:
+        print("No GitHub stars found or unable to generate markdown content.")
 
 if __name__ == "__main__":
     main()
