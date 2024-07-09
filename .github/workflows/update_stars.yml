@@ -25,7 +25,6 @@ jobs:
 
       - name: Run script
         env:
-          MY_GITHUB_USERNAME: ${{ secrets.MY_GITHUB_USERNAME }}
           RANDOKEY: ${{ secrets.RANDOKEY }}
         run: |
           python fetch_and_generate.py
@@ -36,9 +35,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add index.md
           git diff --cached --exit-code || git commit -m "Update GitHub Stars"
-          git_push_attempt=1
-          while ! git push origin main; do
-            echo "Push failed. Retrying attempt $git_push_attempt..."
-            git_push_attempt=$((git_push_attempt + 1))
-            sleep 5  # Wait before retrying
-          done
+          git push origin main
