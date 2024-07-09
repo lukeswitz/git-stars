@@ -4,23 +4,21 @@ import requests
 def fetch_github_stars(username, token):
     url = f'https://api.github.com/users/{username}/starred'
     headers = {'Authorization': f'token {token}'}
-    stars = []
-
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()  # Raise exception for non-2xx responses
-        stars.extend(response.json())
+        stars = response.json()
 
         while 'next' in response.links.keys():
             response = requests.get(response.links['next']['url'], headers=headers)
             response.raise_for_status()  # Raise exception for non-2xx responses
             stars.extend(response.json())
 
+        return stars
+
     except requests.exceptions.RequestException as e:
         print(f"Error fetching GitHub stars: {e}")
         return None
-
-    return stars
 
 def generate_markdown(stars):
     if not stars:
@@ -39,6 +37,8 @@ def save_markdown(content, filepath):
     try:
         with open(filepath, 'w') as f:
             f.write(content)
+        print(f"Markdown content saved to {filepath}")
+
     except IOError as e:
         print(f"Error saving markdown content: {e}")
 
