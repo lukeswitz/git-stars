@@ -25,8 +25,8 @@ jobs:
 
     - name: Run script
       env:
-        GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        MY_GITHUB_USERNAME: ${{ secrets.MY_GITHUB_USERNAME }}
+        RANDOKEY: ${{ secrets.RANDOKEY }}
       run: |
         python fetch_and_generate.py
 
