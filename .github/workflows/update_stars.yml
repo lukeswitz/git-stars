@@ -30,10 +30,10 @@ jobs:
       run: |
         python fetch_and_generate.py
 
-    - name: Commit and push changes
+    - name: Commit and push changes if index.md is updated
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add index.md
-        git commit -m "Update GitHub Stars"
+        git diff --cached --exit-code || git commit -m "Update GitHub Stars"
         git push origin main
