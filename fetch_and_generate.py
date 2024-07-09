@@ -32,10 +32,10 @@ def save_markdown(content, filepath):
         f.write(content)
 
 def main():
-    username = os.getenv('GITHUB_USERNAME')
-    token = os.getenv('GITHUB_TOKEN')
+    username = os.getenv('MY_GITHUB_USERNAME')
+    token = os.getenv('RANDOKEY')
     if not username or not token:
-        raise ValueError("GITHUB_USERNAME and GITHUB_TOKEN environment variables must be set")
+        raise ValueError("MY_GITHUB_USERNAME and RANDOKEY environment variables must be set")
 
     stars = fetch_github_stars(username, token)
     markdown_content = generate_markdown(stars)
