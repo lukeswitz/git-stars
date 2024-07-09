@@ -29,6 +29,9 @@ jobs:
         run: |
           python fetch_and_generate.py
 
+      - name: Pull latest changes from remote
+        run: git pull origin main
+
       - name: Commit and push changes if index.md is updated
         run: |
           git config --local user.email "action@github.com"
