@@ -15,9 +15,9 @@ None
 
 PowerShell scripts for alternative SharpHound enumeration, including users, groups, computers, and certificates, using the ActiveDirectory module (ADWS) or System.DirectoryServices class (LDAP).
 
-**Stars:** 221 | **Language:** PowerShell
+**Stars:** 226 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T23:12:22Z
+**Last Updated:** 2024-12-10T20:21:07Z
 
 
 ---
@@ -59,9 +59,9 @@ Capturing RF signals in the Wild
 
 Nmap - the Network Mapper. Github mirror of official SVN repository.
 
-**Stars:** 10305 | **Language:** C
+**Stars:** 10307 | **Language:** C
 
-**Last Updated:** 2024-12-09T23:15:13Z
+**Last Updated:** 2024-12-10T05:38:30Z
 
 
 ---
@@ -70,9 +70,9 @@ Nmap - the Network Mapper. Github mirror of official SVN repository.
 
 Python SDR Spectrum Analyzer and Signal Processor in text mode
 
-**Stars:** 65 | **Language:** Python
+**Stars:** 67 | **Language:** Python
 
-**Last Updated:** 2024-12-09T19:50:59Z
+**Last Updated:** 2024-12-10T21:24:38Z
 
 
 ---
@@ -83,7 +83,7 @@ App for archiving and displaying recorded SDR transmittions
 
 **Stars:** 8 | **Language:** PHP
 
-**Last Updated:** 2024-11-20T13:35:57Z
+**Last Updated:** 2024-12-10T21:52:52Z
 
 
 ---
@@ -105,7 +105,7 @@ Fully featured and community-driven hacking environment
 
 **Stars:** 1975 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:31:48Z
+**Last Updated:** 2024-12-10T20:22:23Z
 
 
 ---
@@ -116,7 +116,7 @@ iOS WarDragon Utility App
 
 **Stars:** 6 | **Language:** Swift
 
-**Last Updated:** 2024-12-09T23:04:08Z
+**Last Updated:** 2024-12-10T21:46:49Z
 
 
 ---
@@ -169,9 +169,9 @@ This repo contains  both the uhd host driver and firmware for microphase antsdr 
 
 Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
 
-**Stars:** 2806 | **Language:** Python
+**Stars:** 2812 | **Language:** Python
 
-**Last Updated:** 2024-12-09T17:10:18Z
+**Last Updated:** 2024-12-10T15:59:38Z
 
 
 ---
@@ -235,9 +235,9 @@ Simple ESP32 BLE Recon over Serial
 
 DARKARMY Hacking Tools Pack - A Penetration Testing Framework .
 
-**Stars:** 1067 | **Language:** Python
+**Stars:** 1068 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:29:38Z
+**Last Updated:** 2024-12-10T05:22:52Z
 
 
 ---
@@ -246,9 +246,9 @@ DARKARMY Hacking Tools Pack - A Penetration Testing Framework .
 
 Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 
-**Stars:** 520 | **Language:** C
+**Stars:** 525 | **Language:** C
 
-**Last Updated:** 2024-12-09T19:18:12Z
+**Last Updated:** 2024-12-10T17:50:01Z
 
 
 ---
@@ -312,9 +312,9 @@ Proxy tool that bridges the gap between the Sniffle Bluetooth 5 long range exten
 
 Reverse engineered wifi driver for the ESP32
 
-**Stars:** 472 | **Language:** C
+**Stars:** 473 | **Language:** C
 
-**Last Updated:** 2024-12-04T18:15:43Z
+**Last Updated:** 2024-12-10T20:40:26Z
 
 
 ---
@@ -334,9 +334,9 @@ ESP32-S2 based IoT device that is CircuitPython ready!
 
 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 
-**Stars:** 18280 | **Language:** HTML
+**Stars:** 18351 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T23:36:14Z
+**Last Updated:** 2024-12-10T23:16:53Z
 
 
 ---
@@ -369,7 +369,7 @@ A generic satellite data processing software.
 
 **Stars:** 1398 | **Language:** C++
 
-**Last Updated:** 2024-12-09T22:28:07Z
+**Last Updated:** 2024-12-10T21:37:44Z
 
 
 ---
@@ -411,9 +411,9 @@ The essential toolkit for reversing, malware analysis, and cracking
 
 Zero shot vulnerability discovery using LLMs
 
-**Stars:** 1182 | **Language:** Python
+**Stars:** 1191 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:03:53Z
+**Last Updated:** 2024-12-10T11:01:09Z
 
 
 ---
@@ -422,9 +422,9 @@ Zero shot vulnerability discovery using LLMs
 
 Key Copier App for Flipper Zero
 
-**Stars:** 174 | **Language:** C
+**Stars:** 173 | **Language:** C
 
-**Last Updated:** 2024-12-09T17:18:07Z
+**Last Updated:** 2024-12-10T23:41:04Z
 
 
 ---
@@ -455,9 +455,9 @@ Parsing ELF and DWARF in Python
 
 Program for determining types of files for Windows, Linux and MacOS.
 
-**Stars:** 7768 | **Language:** JavaScript
+**Stars:** 7774 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T19:51:15Z
+**Last Updated:** 2024-12-10T18:12:38Z
 
 
 ---
@@ -477,9 +477,9 @@ Deploy stealthy reverse shells using advanced process hollowing with GhostStrike
 
 UNIX-like reverse engineering framework and command-line toolset
 
-**Stars:** 20840 | **Language:** C
+**Stars:** 20844 | **Language:** C
 
-**Last Updated:** 2024-12-09T18:17:37Z
+**Last Updated:** 2024-12-11T00:00:33Z
 
 
 ---
@@ -499,9 +499,9 @@ Looks for parameters in urls
 
 Some files for bruteforcing certain things.
 
-**Stars:** 1178 | **Language:** None
+**Stars:** 1179 | **Language:** None
 
-**Last Updated:** 2024-12-08T21:05:18Z
+**Last Updated:** 2024-12-10T22:03:19Z
 
 
 ---
@@ -609,9 +609,9 @@ PowerRunAsSystem is a PowerShell script, also available as an installable module
 
 A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
 
-**Stars:** 1267 | **Language:** JavaScript
+**Stars:** 1268 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-06T06:18:43Z
+**Last Updated:** 2024-12-10T20:04:42Z
 
 
 ---
@@ -642,9 +642,9 @@ AI-powered ffuf wrapper
 
  automated tool for reconnaissance and enumeration For bug bounty and penetration testing
 
-**Stars:** 5 | **Language:** Shell
+**Stars:** 6 | **Language:** Shell
 
-**Last Updated:** 2024-10-06T18:21:53Z
+**Last Updated:** 2024-12-10T06:32:03Z
 
 
 ---
@@ -653,9 +653,9 @@ AI-powered ffuf wrapper
 
 Security focused USB drive.
 
-**Stars:** 229 | **Language:** AGS Script
+**Stars:** 228 | **Language:** AGS Script
 
-**Last Updated:** 2024-12-08T17:38:09Z
+**Last Updated:** 2024-12-10T19:44:52Z
 
 
 ---
@@ -664,9 +664,9 @@ Security focused USB drive.
 
 An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 
-**Stars:** 3194 | **Language:** Python
+**Stars:** 3197 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:40:55Z
+**Last Updated:** 2024-12-10T17:43:14Z
 
 
 ---
@@ -730,9 +730,9 @@ LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
 
 LoRa APRS Tracker with Tx and Rx capabilities, Messages, Wx, Winlink and more...
 
-**Stars:** 249 | **Language:** C++
+**Stars:** 250 | **Language:** C++
 
-**Last Updated:** 2024-12-06T12:27:34Z
+**Last Updated:** 2024-12-10T13:23:05Z
 
 
 ---
@@ -741,9 +741,9 @@ LoRa APRS Tracker with Tx and Rx capabilities, Messages, Wx, Winlink and more...
 
 Making the community's best AI chat models available to everyone.
 
-**Stars:** 1659 | **Language:** Swift
+**Stars:** 1693 | **Language:** Swift
 
-**Last Updated:** 2024-12-09T23:23:22Z
+**Last Updated:** 2024-12-10T22:40:25Z
 
 
 ---
@@ -752,9 +752,9 @@ Making the community's best AI chat models available to everyone.
 
 Firmware Analysis Tool
 
-**Stars:** 11500 | **Language:** Rust
+**Stars:** 11507 | **Language:** Rust
 
-**Last Updated:** 2024-12-09T18:18:32Z
+**Last Updated:** 2024-12-10T22:48:59Z
 
 
 ---
@@ -774,9 +774,9 @@ exploits for CVE-2024-20017
 
 This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https://www.ghostscript.com
 
-**Stars:** 124 | **Language:** C
+**Stars:** 125 | **Language:** C
 
-**Last Updated:** 2024-12-09T14:01:38Z
+**Last Updated:** 2024-12-10T02:03:27Z
 
 
 ---
@@ -785,9 +785,9 @@ This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https:
 
 Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 
-**Stars:** 3960 | **Language:** Python
+**Stars:** 3962 | **Language:** Python
 
-**Last Updated:** 2024-12-09T08:41:53Z
+**Last Updated:** 2024-12-10T13:56:58Z
 
 
 ---
@@ -798,7 +798,7 @@ Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 
 **Stars:** 3168 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:35:05Z
+**Last Updated:** 2024-12-10T11:53:51Z
 
 
 ---
@@ -873,9 +873,9 @@ Payload Arsenal for Pentration Tester and Bug Bounty Hunters
 
 This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
 
-**Stars:** 305 | **Language:** HTML
+**Stars:** 306 | **Language:** HTML
 
-**Last Updated:** 2024-12-08T11:25:53Z
+**Last Updated:** 2024-12-10T14:43:29Z
 
 
 ---
@@ -906,9 +906,9 @@ AI-powered bug hunter - vscode plugin.
 
 All-in-One Gadget for Dominating BLE and 2.4GHz Networks
 
-**Stars:** 443 | **Language:** C++
+**Stars:** 444 | **Language:** C++
 
-**Last Updated:** 2024-12-09T04:50:14Z
+**Last Updated:** 2024-12-10T00:06:35Z
 
 
 ---
@@ -961,9 +961,9 @@ The Life Operational Security (OpSec) Guide provides invaluable insights and act
 
 (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 
-**Stars:** 1149 | **Language:** JavaScript
+**Stars:** 1160 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T23:44:04Z
+**Last Updated:** 2024-12-10T21:59:45Z
 
 
 ---
@@ -983,9 +983,9 @@ User contributed Pwnagotchi plugins.
 
 (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 
-**Stars:** 7825 | **Language:** Python
+**Stars:** 7828 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:44:01Z
+**Last Updated:** 2024-12-10T12:31:01Z
 
 
 ---
@@ -1005,9 +1005,9 @@ Companion repository of the "Screaming Channels on Bluetooth Low Energy" project
 
 Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 
-**Stars:** 1446 | **Language:** None
+**Stars:** 1449 | **Language:** None
 
-**Last Updated:** 2024-12-08T23:40:52Z
+**Last Updated:** 2024-12-10T19:25:55Z
 
 
 ---
@@ -1060,9 +1060,9 @@ Firmware and research tools for Nordic Semiconductor nRF24LU1+ based USB dongles
 
 A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 
-**Stars:** 12545 | **Language:** None
+**Stars:** 12549 | **Language:** None
 
-**Last Updated:** 2024-12-09T15:15:47Z
+**Last Updated:** 2024-12-10T17:12:02Z
 
 
 ---
@@ -1082,9 +1082,9 @@ None
 
 A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 
-**Stars:** 5726 | **Language:** None
+**Stars:** 5730 | **Language:** None
 
-**Last Updated:** 2024-12-09T00:55:40Z
+**Last Updated:** 2024-12-10T17:54:37Z
 
 
 ---
@@ -1093,9 +1093,9 @@ A cheat sheet that contains common enumeration and attack methods for Windows Ac
 
 Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 
-**Stars:** 6207 | **Language:** C
+**Stars:** 6209 | **Language:** C
 
-**Last Updated:** 2024-12-09T21:50:38Z
+**Last Updated:** 2024-12-10T15:59:52Z
 
 
 ---
@@ -1104,9 +1104,9 @@ Program to decode radio transmissions from devices on the ISM bands (and other f
 
 A fast, intuitive USB 2.0 protocol analysis application for use with Cynthion.
 
-**Stars:** 162 | **Language:** Rust
+**Stars:** 163 | **Language:** Rust
 
-**Last Updated:** 2024-12-09T01:38:19Z
+**Last Updated:** 2024-12-10T10:54:32Z
 
 
 ---
@@ -1115,9 +1115,9 @@ A fast, intuitive USB 2.0 protocol analysis application for use with Cynthion.
 
 smbclient-ng, a fast and user friendly way to interact with SMB shares. 
 
-**Stars:** 817 | **Language:** Python
+**Stars:** 818 | **Language:** Python
 
-**Last Updated:** 2024-12-09T00:08:04Z
+**Last Updated:** 2024-12-10T04:54:56Z
 
 
 ---
@@ -1137,9 +1137,9 @@ Firmware and research tools for Nordic Semiconductor nRF24LU1+ based USB dongles
 
 None
 
-**Stars:** 438 | **Language:** C++
+**Stars:** 439 | **Language:** C++
 
-**Last Updated:** 2024-12-06T08:29:43Z
+**Last Updated:** 2024-12-10T05:01:06Z
 
 
 ---
@@ -1159,9 +1159,9 @@ ShellSweeping the evil.
 
 GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 
-**Stars:** 25674 | **Language:** C
+**Stars:** 25682 | **Language:** C
 
-**Last Updated:** 2024-12-09T20:05:24Z
+**Last Updated:** 2024-12-10T22:27:07Z
 
 
 ---
@@ -1181,9 +1181,9 @@ Make BASH stealthy and hacker friendly with lots of bash functions
 
 Oversecured Vulnerable iOS App
 
-**Stars:** 215 | **Language:** Swift
+**Stars:** 216 | **Language:** Swift
 
-**Last Updated:** 2024-12-08T08:43:46Z
+**Last Updated:** 2024-12-10T08:52:47Z
 
 
 ---
@@ -1249,7 +1249,7 @@ Wireless Hacking Devices Protocol client
 
 **Stars:** 136 | **Language:** Python
 
-**Last Updated:** 2024-12-06T16:21:58Z
+**Last Updated:** 2024-12-10T13:36:48Z
 
 
 ---
@@ -1258,9 +1258,9 @@ Wireless Hacking Devices Protocol client
 
 RF tool based on CC1101 module and Arduino Pro Micro 8VMHz/3.3V. Allows using CLI with human readable commands to control CC1101 board over USB interface. Putty or any other serial terminal can be used. It has similar functionality to YardStick One but is cheaper and doesn't need specialized software. Allows for RF jamming and simple replay attack
 
-**Stars:** 304 | **Language:** C++
+**Stars:** 307 | **Language:** C++
 
-**Last Updated:** 2024-12-08T08:04:19Z
+**Last Updated:** 2024-12-10T09:08:08Z
 
 
 ---
@@ -1368,9 +1368,9 @@ A tool for checking the security hardening options of the Linux kernel
 
 A repo for TPM sniffing greatness
 
-**Stars:** 205 | **Language:** None
+**Stars:** 206 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:54:29Z
+**Last Updated:** 2024-12-10T23:01:50Z
 
 
 ---
@@ -1412,9 +1412,9 @@ Restoration for TEMPEST images using deep-learning
 
 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
-**Stars:** 22684 | **Language:** TypeScript
+**Stars:** 22688 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T21:05:41Z
+**Last Updated:** 2024-12-10T21:40:21Z
 
 
 ---
@@ -1423,9 +1423,9 @@ Restoration for TEMPEST images using deep-learning
 
 A little tool to play with Windows security
 
-**Stars:** 19548 | **Language:** C
+**Stars:** 19554 | **Language:** C
 
-**Last Updated:** 2024-12-09T17:29:57Z
+**Last Updated:** 2024-12-10T22:47:42Z
 
 
 ---
@@ -1436,7 +1436,7 @@ An addon module for portapack to add extra features to it for more fun.
 
 **Stars:** 89 | **Language:** C
 
-**Last Updated:** 2024-12-09T10:51:53Z
+**Last Updated:** 2024-12-10T13:17:54Z
 
 
 ---
@@ -1533,9 +1533,9 @@ Unlock Exclusive Insights! 🚀📖 Download My FREE E-Zine Now ➡️  Over 170
 
 802.11 Attack Tool
 
-**Stars:** 1169 | **Language:** Rust
+**Stars:** 1174 | **Language:** Rust
 
-**Last Updated:** 2024-12-09T19:04:58Z
+**Last Updated:** 2024-12-10T19:27:37Z
 
 
 ---
@@ -1555,9 +1555,9 @@ Programmatic Electron fuse detection
 
 Awesome Security lists for SOC/CERT/CTI
 
-**Stars:** 729 | **Language:** GLSL
+**Stars:** 732 | **Language:** GLSL
 
-**Last Updated:** 2024-12-09T23:21:40Z
+**Last Updated:** 2024-12-10T23:40:23Z
 
 
 ---
@@ -1568,7 +1568,7 @@ Penelope Shell Handler
 
 **Stars:** 711 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:21:46Z
+**Last Updated:** 2024-12-10T00:10:34Z
 
 
 ---
@@ -1577,9 +1577,9 @@ Penelope Shell Handler
 
 Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 
-**Stars:** 15953 | **Language:** TypeScript
+**Stars:** 15974 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T21:55:32Z
+**Last Updated:** 2024-12-10T19:32:36Z
 
 
 ---
@@ -1599,9 +1599,9 @@ A Tool that aims to evade av with binary padding
 
  BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
 
-**Stars:** 349 | **Language:** Shell
+**Stars:** 350 | **Language:** Shell
 
-**Last Updated:** 2024-12-06T19:09:32Z
+**Last Updated:** 2024-12-10T09:58:37Z
 
 
 ---
@@ -1665,9 +1665,9 @@ NFC library for Arduino using PN532
 
 macOS Malware Collection
 
-**Stars:** 339 | **Language:** None
+**Stars:** 340 | **Language:** None
 
-**Last Updated:** 2024-12-07T04:50:59Z
+**Last Updated:** 2024-12-10T21:18:18Z
 
 
 ---
@@ -1676,9 +1676,9 @@ macOS Malware Collection
 
 A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 
-**Stars:** 1672 | **Language:** Python
+**Stars:** 1673 | **Language:** Python
 
-**Last Updated:** 2024-12-09T15:07:07Z
+**Last Updated:** 2024-12-10T01:20:12Z
 
 
 ---
@@ -1687,9 +1687,9 @@ A tool for automating cracking methodologies through Hashcat from the TrustedSec
 
 The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 
-**Stars:** 11102 | **Language:** Python
+**Stars:** 11103 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:28:58Z
+**Last Updated:** 2024-12-10T13:39:19Z
 
 
 ---
@@ -1711,7 +1711,7 @@ SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, R
 
 **Stars:** 2973 | **Language:** C++
 
-**Last Updated:** 2024-12-09T23:44:24Z
+**Last Updated:** 2024-12-10T20:46:44Z
 
 
 ---
@@ -1720,9 +1720,9 @@ SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, R
 
 Snoop — инструмент разведки на основе открытых данных (OSINT world)
 
-**Stars:** 3022 | **Language:** Python
+**Stars:** 3024 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:41:11Z
+**Last Updated:** 2024-12-10T15:11:57Z
 
 
 ---
@@ -1731,9 +1731,9 @@ Snoop — инструмент разведки на основе открыты
 
 change your Ip address automatically  This tool based on tor project
 
-**Stars:** 870 | **Language:** Python
+**Stars:** 871 | **Language:** Python
 
-**Last Updated:** 2024-12-09T16:30:53Z
+**Last Updated:** 2024-12-10T18:26:11Z
 
 
 ---
@@ -1742,9 +1742,9 @@ change your Ip address automatically  This tool based on tor project
 
 Official Kali Linux tool to check all urls of a domain for SQL injections :)
 
-**Stars:** 282 | **Language:** Python
+**Stars:** 283 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:58:27Z
+**Last Updated:** 2024-12-10T10:47:02Z
 
 
 ---
@@ -1753,9 +1753,9 @@ Official Kali Linux tool to check all urls of a domain for SQL injections :)
 
 None
 
-**Stars:** 32 | **Language:** None
+**Stars:** 33 | **Language:** None
 
-**Last Updated:** 2024-06-25T09:32:53Z
+**Last Updated:** 2024-12-10T19:20:41Z
 
 
 ---
@@ -1764,9 +1764,9 @@ None
 
 🚀 A swifty RF toolbox baked for your needs, and it's multi-platform! 🌐✨ Available right now in for amd64 Linux & Windows, and with some limitations on aarch64 with Raspberry Pi 5 and Apple M1-M3, and RISC-V 64 tested on Milk-V Jupiter SBC
 
-**Stars:** 157 | **Language:** Go
+**Stars:** 160 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:50:44Z
+**Last Updated:** 2024-12-10T23:27:32Z
 
 
 ---
@@ -1775,9 +1775,9 @@ None
 
 Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 
-**Stars:** 277 | **Language:** CSS
+**Stars:** 278 | **Language:** CSS
 
-**Last Updated:** 2024-12-09T03:18:17Z
+**Last Updated:** 2024-12-10T08:13:10Z
 
 
 ---
@@ -1852,9 +1852,9 @@ Invisible network protocol sniffer
 
 A fast and comprehensive tool for organizational network scanning
 
-**Stars:** 127 | **Language:** Nim
+**Stars:** 128 | **Language:** Nim
 
-**Last Updated:** 2024-12-06T01:40:35Z
+**Last Updated:** 2024-12-10T10:46:43Z
 
 
 ---
@@ -1918,9 +1918,9 @@ Burp plugin able to find reflected XSS on page in real-time while browsing on si
 
 Knock Subdomain Scan
 
-**Stars:** 3895 | **Language:** Python
+**Stars:** 3898 | **Language:** Python
 
-**Last Updated:** 2024-12-09T01:43:32Z
+**Last Updated:** 2024-12-10T15:38:41Z
 
 
 ---
@@ -1973,9 +1973,9 @@ A fuzzer for finding anomalies and analyzing how servers respond to different HT
 
 Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 
-**Stars:** 3326 | **Language:** Shell
+**Stars:** 3329 | **Language:** Shell
 
-**Last Updated:** 2024-12-08T23:16:53Z
+**Last Updated:** 2024-12-10T19:15:53Z
 
 
 ---
@@ -2006,9 +2006,9 @@ Active Directory reconnaissance and exploitation for Red Teams via the Active Di
 
 TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 
-**Stars:** 23809 | **Language:** C
+**Stars:** 23815 | **Language:** C
 
-**Last Updated:** 2024-12-09T21:42:22Z
+**Last Updated:** 2024-12-10T14:23:06Z
 
 
 ---
@@ -2017,9 +2017,9 @@ TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in 
 
 The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
 
-**Stars:** 5178 | **Language:** Python
+**Stars:** 5177 | **Language:** Python
 
-**Last Updated:** 2024-12-09T01:43:36Z
+**Last Updated:** 2024-12-10T11:10:34Z
 
 
 ---
@@ -2028,9 +2028,9 @@ The Penetration Testers Framework (PTF) is a way for modular support for up-to-d
 
 Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.
 
-**Stars:** 3451 | **Language:** Shell
+**Stars:** 3452 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T18:18:32Z
+**Last Updated:** 2024-12-10T21:28:13Z
 
 
 ---
@@ -2094,9 +2094,9 @@ Burp Plugin to Bypass WAFs through the insertion of Junk Data
 
 AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 
-**Stars:** 5194 | **Language:** Python
+**Stars:** 5195 | **Language:** Python
 
-**Last Updated:** 2024-12-09T14:40:28Z
+**Last Updated:** 2024-12-10T04:15:43Z
 
 
 ---
@@ -2105,9 +2105,9 @@ AutoRecon is a multi-threaded network reconnaissance tool which performs automat
 
 fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
-**Stars:** 25849 | **Language:** Go
+**Stars:** 25878 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:55:04Z
+**Last Updated:** 2024-12-10T23:50:21Z
 
 
 ---
@@ -2138,9 +2138,9 @@ Detect Stalkers with Wardriving, using Python
 
 :snake: A toolkit for testing, tweaking and cracking JSON Web Tokens
 
-**Stars:** 5491 | **Language:** Python
+**Stars:** 5493 | **Language:** Python
 
-**Last Updated:** 2024-12-09T19:25:06Z
+**Last Updated:** 2024-12-10T07:41:07Z
 
 
 ---
@@ -2149,9 +2149,9 @@ Detect Stalkers with Wardriving, using Python
 
 📜 A collection of wordlists for many different usages
 
-**Stars:** 1312 | **Language:** None
+**Stars:** 1316 | **Language:** None
 
-**Last Updated:** 2024-12-09T18:18:41Z
+**Last Updated:** 2024-12-10T23:43:38Z
 
 
 ---
@@ -2160,9 +2160,9 @@ Detect Stalkers with Wardriving, using Python
 
 A collection of hacks and one-off scripts
 
-**Stars:** 2153 | **Language:** Go
+**Stars:** 2154 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:39:35Z
+**Last Updated:** 2024-12-10T07:45:27Z
 
 
 ---
@@ -2193,9 +2193,9 @@ LVGL UI for ESP32 C3 mini 240*240  board (ESP32-2424S012)
 
 Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g
 
-**Stars:** 3496 | **Language:** C++
+**Stars:** 3497 | **Language:** C++
 
-**Last Updated:** 2024-12-09T10:19:01Z
+**Last Updated:** 2024-12-10T21:19:56Z
 
 
 ---
@@ -2215,9 +2215,9 @@ A U-Boot hacking toolkit for security researchers and tinkerers
 
 Clone this repo to build Frida
 
-**Stars:** 16385 | **Language:** Meson
+**Stars:** 16391 | **Language:** Meson
 
-**Last Updated:** 2024-12-09T18:18:32Z
+**Last Updated:** 2024-12-10T17:32:15Z
 
 
 ---
@@ -2226,9 +2226,9 @@ Clone this repo to build Frida
 
 BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 
-**Stars:** 15408 | **Language:** C
+**Stars:** 15413 | **Language:** C
 
-**Last Updated:** 2024-12-09T23:19:59Z
+**Last Updated:** 2024-12-10T17:34:49Z
 
 
 ---
@@ -2237,9 +2237,9 @@ BlackHole is a modern macOS audio loopback driver that allows applications to pa
 
 QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things.
 
-**Stars:** 1386 | **Language:** Python
+**Stars:** 1387 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:15:24Z
+**Last Updated:** 2024-12-10T14:05:56Z
 
 
 ---
@@ -2248,9 +2248,9 @@ QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing 
 
 SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 
-**Stars:** 447 | **Language:** Python
+**Stars:** 450 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:46:18Z
+**Last Updated:** 2024-12-10T14:10:31Z
 
 
 ---
@@ -2281,9 +2281,9 @@ Close-Circuit Telegram Vision revolutionizes location tracking with its open-sou
 
 Scanning APK file for URIs, endpoints & secrets.
 
-**Stars:** 4982 | **Language:** Python
+**Stars:** 4984 | **Language:** Python
 
-**Last Updated:** 2024-12-09T11:36:53Z
+**Last Updated:** 2024-12-10T10:05:05Z
 
 
 ---
@@ -2292,9 +2292,9 @@ Scanning APK file for URIs, endpoints & secrets.
 
 Organize your API security assessment by using MindAPI. It's free and open for community collaboration.
 
-**Stars:** 823 | **Language:** None
+**Stars:** 824 | **Language:** None
 
-**Last Updated:** 2024-12-04T09:57:08Z
+**Last Updated:** 2024-12-10T03:03:58Z
 
 
 ---
@@ -2325,9 +2325,9 @@ Dissector of Open Drone ID broadcast protocol for Wireshark
 
 Awesome secure by default libraries to help you eliminate bug classes!
 
-**Stars:** 670 | **Language:** None
+**Stars:** 671 | **Language:** None
 
-**Last Updated:** 2024-11-25T15:28:40Z
+**Last Updated:** 2024-12-10T16:45:14Z
 
 
 ---
@@ -2336,9 +2336,9 @@ Awesome secure by default libraries to help you eliminate bug classes!
 
 An OSINT / digital forensics tool built in Python
 
-**Stars:** 328 | **Language:** Python
+**Stars:** 329 | **Language:** Python
 
-**Last Updated:** 2024-12-04T18:15:43Z
+**Last Updated:** 2024-12-10T21:16:02Z
 
 
 ---
@@ -2358,9 +2358,9 @@ None
 
 A repository with 3 tools for pwn'ing websites with .git repositories available
 
-**Stars:** 3877 | **Language:** Shell
+**Stars:** 3878 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T13:13:28Z
+**Last Updated:** 2024-12-10T07:40:58Z
 
 
 ---
@@ -2391,9 +2391,9 @@ PasteBomb C2-less RAT
 
 Communicate Freely
 
-**Stars:** 1238 | **Language:** Python
+**Stars:** 1239 | **Language:** Python
 
-**Last Updated:** 2024-12-09T21:50:07Z
+**Last Updated:** 2024-12-10T02:28:53Z
 
 
 ---
@@ -2402,9 +2402,9 @@ Communicate Freely
 
 LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supports.
 
-**Stars:** 392 | **Language:** Python
+**Stars:** 393 | **Language:** Python
 
-**Last Updated:** 2024-12-09T19:26:06Z
+**Last Updated:** 2024-12-10T20:26:23Z
 
 
 ---
@@ -2413,9 +2413,9 @@ LXMF client for Android, Linux and macOS allowing you to communicate with people
 
 The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 
-**Stars:** 2119 | **Language:** Python
+**Stars:** 2120 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:26:22Z
+**Last Updated:** 2024-12-10T20:39:48Z
 
 
 ---
@@ -2424,9 +2424,9 @@ The cryptography-based networking stack for building unstoppable networks with L
 
 AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details.
 
-**Stars:** 990 | **Language:** Python
+**Stars:** 1005 | **Language:** Python
 
-**Last Updated:** 2024-12-09T21:52:30Z
+**Last Updated:** 2024-12-10T21:11:39Z
 
 
 ---
@@ -2446,9 +2446,9 @@ Chiasmodon is an OSINT  tool designed to assist in the process of gathering info
 
 A serial device I/O tool
 
-**Stars:** 2068 | **Language:** C
+**Stars:** 2069 | **Language:** C
 
-**Last Updated:** 2024-12-09T03:05:56Z
+**Last Updated:** 2024-12-10T16:03:41Z
 
 
 ---
@@ -2459,7 +2459,7 @@ Bus Pirate v5 Firmware
 
 **Stars:** 146 | **Language:** C
 
-**Last Updated:** 2024-12-09T20:55:10Z
+**Last Updated:** 2024-12-10T23:45:20Z
 
 
 ---
@@ -2501,9 +2501,9 @@ The IoT security toolkit to help identify IoT related dashboards and scan them f
 
 AI assistant that utilizes GPT language models to interpret and generate cybersecurity payloads 🪄
 
-**Stars:** 193 | **Language:** TypeScript
+**Stars:** 194 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T14:52:04Z
+**Last Updated:** 2024-12-10T01:54:23Z
 
 
 ---
@@ -2514,7 +2514,7 @@ Vulnerable app with examples showing how to not use secrets
 
 **Stars:** 1240 | **Language:** Java
 
-**Last Updated:** 2024-12-09T23:21:58Z
+**Last Updated:** 2024-12-10T05:17:20Z
 
 
 ---
@@ -2556,9 +2556,9 @@ The Leading Security Assessment Framework for Android.
 
 Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
-**Stars:** 5983 | **Language:** Go
+**Stars:** 5989 | **Language:** Go
 
-**Last Updated:** 2024-12-09T22:59:57Z
+**Last Updated:** 2024-12-10T16:54:57Z
 
 
 ---
@@ -2567,9 +2567,9 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 构建并优化高效的渗透 Fuzz 字典，提升网络安全从业人员的渗透测试效率。
 
-**Stars:** 1685 | **Language:** PHP
+**Stars:** 1686 | **Language:** PHP
 
-**Last Updated:** 2024-12-07T13:01:06Z
+**Last Updated:** 2024-12-10T01:35:20Z
 
 
 ---
@@ -2578,9 +2578,9 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 
-**Stars:** 11047 | **Language:** Python
+**Stars:** 11050 | **Language:** Python
 
-**Last Updated:** 2024-12-09T17:02:56Z
+**Last Updated:** 2024-12-10T23:42:17Z
 
 
 ---
@@ -2633,9 +2633,9 @@ Rubber ducky like scripts for ATTiny85
 
 RubberDucky like payloads for DigiSpark Attiny85
 
-**Stars:** 1447 | **Language:** C++
+**Stars:** 1448 | **Language:** C++
 
-**Last Updated:** 2024-12-09T02:13:34Z
+**Last Updated:** 2024-12-10T01:34:43Z
 
 
 ---
@@ -2644,9 +2644,9 @@ RubberDucky like payloads for DigiSpark Attiny85
 
 This is a useful Python script for extracting bug bounty or any other write-ups from Medium.com and other websites (soon).
 
-**Stars:** 96 | **Language:** Python
+**Stars:** 97 | **Language:** Python
 
-**Last Updated:** 2024-11-19T19:23:45Z
+**Last Updated:** 2024-12-10T23:25:02Z
 
 
 ---
@@ -2666,9 +2666,9 @@ None
 
 Tool for hiding Kali Linux on the network
 
-**Stars:** 297 | **Language:** Shell
+**Stars:** 298 | **Language:** Shell
 
-**Last Updated:** 2024-11-22T09:14:14Z
+**Last Updated:** 2024-12-10T06:51:00Z
 
 
 ---
@@ -2677,9 +2677,9 @@ Tool for hiding Kali Linux on the network
 
 Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 
-**Stars:** 1925 | **Language:** C#
+**Stars:** 1939 | **Language:** C#
 
-**Last Updated:** 2024-12-09T20:35:32Z
+**Last Updated:** 2024-12-10T23:47:00Z
 
 
 ---
@@ -2723,7 +2723,7 @@ DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to 
 
 **Stars:** 2145 | **Language:** Python
 
-**Last Updated:** 2024-12-09T14:13:25Z
+**Last Updated:** 2024-12-10T19:18:38Z
 
 
 ---
@@ -2732,9 +2732,9 @@ DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to 
 
 Grok open release
 
-**Stars:** 49680 | **Language:** Python
+**Stars:** 49696 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:58:10Z
+**Last Updated:** 2024-12-10T23:18:09Z
 
 
 ---
@@ -2754,9 +2754,9 @@ DOM fuzzer
 
 PoC to record audio from a Bluetooth device
 
-**Stars:** 935 | **Language:** Python
+**Stars:** 938 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:11:29Z
+**Last Updated:** 2024-12-10T13:12:46Z
 
 
 ---
@@ -2787,9 +2787,9 @@ Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 
 🕵️ OSINT Tools for gathering information and actions forensics 🕵️ 
 
-**Stars:** 1752 | **Language:** None
+**Stars:** 1754 | **Language:** None
 
-**Last Updated:** 2024-12-09T06:35:55Z
+**Last Updated:** 2024-12-10T22:24:11Z
 
 
 ---
@@ -2897,9 +2897,9 @@ This Burp Suite extension allows for the automatic creation and deletion of an u
 
 A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
-**Stars:** 7918 | **Language:** Shell
+**Stars:** 7925 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T22:54:42Z
+**Last Updated:** 2024-12-10T23:16:00Z
 
 
 ---
@@ -2919,9 +2919,9 @@ SploitScan is a sophisticated cybersecurity utility designed to provide detailed
 
 Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 
-**Stars:** 1249 | **Language:** Python
+**Stars:** 1250 | **Language:** Python
 
-**Last Updated:** 2024-12-09T17:18:08Z
+**Last Updated:** 2024-12-10T11:09:27Z
 
 
 ---
@@ -2930,9 +2930,9 @@ Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux
 
 P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 
-**Stars:** 3805 | **Language:** JavaScript
+**Stars:** 3806 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T16:31:21Z
+**Last Updated:** 2024-12-10T14:57:34Z
 
 
 ---
@@ -2941,9 +2941,9 @@ P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into 
 
 Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)
 
-**Stars:** 716 | **Language:** C
+**Stars:** 717 | **Language:** C
 
-**Last Updated:** 2024-12-07T12:48:12Z
+**Last Updated:** 2024-12-10T16:29:32Z
 
 
 ---
@@ -2952,9 +2952,9 @@ Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)
 
 In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
 
-**Stars:** 450 | **Language:** HTML
+**Stars:** 451 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T17:05:38Z
+**Last Updated:** 2024-12-10T20:13:03Z
 
 
 ---
@@ -2963,9 +2963,9 @@ In this repository you will find sample commands and test files for each day of 
 
 A Collection of Over 60 Scripts - updated specifically for the BadUSB function on the FlipperZero. 
 
-**Stars:** 590 | **Language:** PowerShell
+**Stars:** 592 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T20:53:54Z
+**Last Updated:** 2024-12-10T23:09:22Z
 
 
 ---
@@ -2974,9 +2974,9 @@ A Collection of Over 60 Scripts - updated specifically for the BadUSB function o
 
 WEB-Wordlist-Generator creates related wordlists after scanning your web applications.
 
-**Stars:** 44 | **Language:** Python
+**Stars:** 45 | **Language:** Python
 
-**Last Updated:** 2024-11-25T00:44:36Z
+**Last Updated:** 2024-12-10T10:47:26Z
 
 
 ---
@@ -2996,9 +2996,9 @@ WEB-Wordlist-Generator creates related wordlists after scanning your web applica
 
 EvenBetter is a frontend Caido plugin that makes the Caido experience even better 😎
 
-**Stars:** 136 | **Language:** TypeScript
+**Stars:** 137 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-03T15:38:47Z
+**Last Updated:** 2024-12-10T13:21:48Z
 
 
 ---
@@ -3029,9 +3029,9 @@ De-clutter a list of URLs
 
 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 
-**Stars:** 3794 | **Language:** Go
+**Stars:** 3799 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:43:07Z
+**Last Updated:** 2024-12-10T14:23:12Z
 
 
 ---
@@ -3040,9 +3040,9 @@ De-clutter a list of URLs
 
 A curated list of various bug bounty tools
 
-**Stars:** 4347 | **Language:** None
+**Stars:** 4351 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:29:46Z
+**Last Updated:** 2024-12-10T14:25:20Z
 
 
 ---
@@ -3053,7 +3053,7 @@ Collection of UAC Bypass Techniques Weaponized as BOFs
 
 **Stars:** 419 | **Language:** C
 
-**Last Updated:** 2024-12-08T23:09:40Z
+**Last Updated:** 2024-12-10T19:59:50Z
 
 
 ---
@@ -3084,9 +3084,9 @@ code to be able to use multiple esp32 to simulatnaiously scan for wifi networks 
 
 Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
 
-**Stars:** 558 | **Language:** HTML
+**Stars:** 561 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T12:17:44Z
+**Last Updated:** 2024-12-10T18:11:09Z
 
 
 ---
@@ -3106,9 +3106,9 @@ None
 
 bladeRF USB 3.0 Superspeed Software Defined Radio Source Code
 
-**Stars:** 1159 | **Language:** C
+**Stars:** 1160 | **Language:** C
 
-**Last Updated:** 2024-12-06T09:10:14Z
+**Last Updated:** 2024-12-10T15:13:23Z
 
 
 ---
@@ -3174,7 +3174,7 @@ ESP32Marauder Cheap Yellow Display
 
 **Stars:** 607 | **Language:** C
 
-**Last Updated:** 2024-12-09T23:15:58Z
+**Last Updated:** 2024-12-10T20:48:28Z
 
 
 ---
@@ -3205,9 +3205,9 @@ Awesome maintained collection of OSINT related resources. (All Free & Actionable
 
 :scream: A curated list of amazingly awesome OSINT
 
-**Stars:** 19308 | **Language:** None
+**Stars:** 19321 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:40:29Z
+**Last Updated:** 2024-12-10T20:24:25Z
 
 
 ---
@@ -3227,9 +3227,9 @@ This is a repo containing several osint sources
 
 Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
-**Stars:** 9875 | **Language:** Python
+**Stars:** 9878 | **Language:** Python
 
-**Last Updated:** 2024-12-09T18:18:39Z
+**Last Updated:** 2024-12-10T23:03:17Z
 
 
 ---
@@ -3304,9 +3304,9 @@ A reverse search tool for OSINT (Open Source Intelligence) gathering & facial re
 
 SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
-**Stars:** 13318 | **Language:** Python
+**Stars:** 13322 | **Language:** Python
 
-**Last Updated:** 2024-12-09T18:58:50Z
+**Last Updated:** 2024-12-10T22:12:27Z
 
 
 ---
@@ -3315,9 +3315,9 @@ SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa
 
 🕵️‍♂️ Offensive Google framework.
 
-**Stars:** 15867 | **Language:** Python
+**Stars:** 15868 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:20:44Z
+**Last Updated:** 2024-12-10T15:37:22Z
 
 
 ---
@@ -3392,9 +3392,9 @@ AtomGPS code with additions to do silly things with the AtomMATRIX display unit
 
 game of active directory
 
-**Stars:** 5587 | **Language:** PowerShell
+**Stars:** 5588 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T22:14:40Z
+**Last Updated:** 2024-12-10T13:34:41Z
 
 
 ---
@@ -3414,9 +3414,9 @@ An interactive shell to spoof some LOLBins command line
 
 Navigate the CVE jungle with ease.
 
-**Stars:** 1788 | **Language:** Go
+**Stars:** 1789 | **Language:** Go
 
-**Last Updated:** 2024-12-09T11:54:28Z
+**Last Updated:** 2024-12-10T21:07:49Z
 
 
 ---
@@ -3546,9 +3546,9 @@ Wifi & BLE 'real-time' device tracking
 
 Wifi & BLE driven passenger flow metering with cheap ESP32 boards
 
-**Stars:** 1763 | **Language:** C++
+**Stars:** 1764 | **Language:** C++
 
-**Last Updated:** 2024-12-09T23:09:19Z
+**Last Updated:** 2024-12-10T01:52:11Z
 
 
 ---
@@ -3623,9 +3623,9 @@ pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and sea
 
 Custom firmware for the HackRF+PortaPack H1/H2/H4
 
-**Stars:** 3586 | **Language:** C
+**Stars:** 3590 | **Language:** C
 
-**Last Updated:** 2024-12-09T21:20:01Z
+**Last Updated:** 2024-12-10T21:40:14Z
 
 
 ---
@@ -3634,9 +3634,9 @@ Custom firmware for the HackRF+PortaPack H1/H2/H4
 
 Standalone Wireless keystroke injection attack platform for ESP32 s2/s3
 
-**Stars:** 105 | **Language:** C++
+**Stars:** 106 | **Language:** C++
 
-**Last Updated:** 2024-12-08T21:30:31Z
+**Last Updated:** 2024-12-10T11:19:53Z
 
 
 ---
@@ -3678,9 +3678,9 @@ Nuclei Templates Collection
 
 Nidhogg is an all-in-one simple to use windows kernel rootkit.
 
-**Stars:** 1814 | **Language:** C++
+**Stars:** 1816 | **Language:** C++
 
-**Last Updated:** 2024-12-09T10:31:36Z
+**Last Updated:** 2024-12-10T04:03:56Z
 
 
 ---
@@ -3722,9 +3722,9 @@ Azure DevOps Services Attack Toolkit
 
 A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers. 
 
-**Stars:** 1089 | **Language:** Go
+**Stars:** 1090 | **Language:** Go
 
-**Last Updated:** 2024-12-09T20:34:37Z
+**Last Updated:** 2024-12-10T12:25:13Z
 
 
 ---
@@ -3733,9 +3733,9 @@ A wordlist framework to fullfill your kinks with your wordlists. For security re
 
 Focus on prompting and generating
 
-**Stars:** 41877 | **Language:** Python
+**Stars:** 41899 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:12:52Z
+**Last Updated:** 2024-12-10T23:46:15Z
 
 
 ---
@@ -3744,9 +3744,9 @@ Focus on prompting and generating
 
 Simple (relatively) things allowing you to dig a bit deeper than usual.
 
-**Stars:** 3240 | **Language:** C
+**Stars:** 3243 | **Language:** C
 
-**Last Updated:** 2024-12-06T23:48:27Z
+**Last Updated:** 2024-12-10T18:58:14Z
 
 
 ---
@@ -3766,9 +3766,9 @@ The fastest way to identify anything!
 
 A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks
 
-**Stars:** 833 | **Language:** Python
+**Stars:** 834 | **Language:** Python
 
-**Last Updated:** 2024-12-08T20:17:36Z
+**Last Updated:** 2024-12-10T17:57:01Z
 
 
 ---
@@ -3821,9 +3821,9 @@ None
 
 None
 
-**Stars:** 2188 | **Language:** Python
+**Stars:** 2189 | **Language:** Python
 
-**Last Updated:** 2024-12-09T08:42:33Z
+**Last Updated:** 2024-12-10T07:05:19Z
 
 
 ---
@@ -3854,9 +3854,9 @@ Seekolver is a tool focused on attack-surface mapping. It performs searches for 
 
 A set of fully-undetectable process injection techniques abusing Windows Thread Pools
 
-**Stars:** 963 | **Language:** C++
+**Stars:** 964 | **Language:** C++
 
-**Last Updated:** 2024-12-09T01:45:08Z
+**Last Updated:** 2024-12-10T05:00:15Z
 
 
 ---
@@ -3865,9 +3865,9 @@ A set of fully-undetectable process injection techniques abusing Windows Thread 
 
 Google Chromium, sans integration with Google
 
-**Stars:** 20919 | **Language:** Python
+**Stars:** 20927 | **Language:** Python
 
-**Last Updated:** 2024-12-09T21:55:49Z
+**Last Updated:** 2024-12-10T22:11:07Z
 
 
 ---
@@ -3876,9 +3876,9 @@ Google Chromium, sans integration with Google
 
 LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 
-**Stars:** 15204 | **Language:** Python
+**Stars:** 15215 | **Language:** Python
 
-**Last Updated:** 2024-12-09T21:36:58Z
+**Last Updated:** 2024-12-10T23:06:32Z
 
 
 ---
@@ -3898,9 +3898,9 @@ None
 
 Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
 
-**Stars:** 896 | **Language:** Python
+**Stars:** 898 | **Language:** Python
 
-**Last Updated:** 2024-12-09T11:22:15Z
+**Last Updated:** 2024-12-10T22:08:28Z
 
 
 ---
@@ -3911,7 +3911,7 @@ Mantis is a security framework that automates the workflow of discovery, reconna
 
 **Stars:** 721 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T21:35:48Z
+**Last Updated:** 2024-12-10T01:26:11Z
 
 
 ---
@@ -3953,9 +3953,9 @@ None
 
 M5 Stick C firmware for high-tech pranks
 
-**Stars:** 846 | **Language:** C
+**Stars:** 848 | **Language:** C
 
-**Last Updated:** 2024-12-08T02:38:22Z
+**Last Updated:** 2024-12-10T21:59:24Z
 
 
 ---
@@ -3964,9 +3964,9 @@ M5 Stick C firmware for high-tech pranks
 
 Arsenal is just a quick inventory and launcher for hacking programs
 
-**Stars:** 3217 | **Language:** Python
+**Stars:** 3218 | **Language:** Python
 
-**Last Updated:** 2024-12-09T04:41:36Z
+**Last Updated:** 2024-12-10T14:32:30Z
 
 
 ---
@@ -3997,9 +3997,9 @@ None
 
 ScriptSentry finds misconfigured and dangerous logon scripts.
 
-**Stars:** 394 | **Language:** PowerShell
+**Stars:** 402 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T22:50:34Z
+**Last Updated:** 2024-12-10T22:45:11Z
 
 
 ---
@@ -4019,9 +4019,9 @@ Runs nmap on the LAN and then generates a basic ASCII network diagram, a 'hand d
 
 A curated list of GPT agents for cybersecurity
 
-**Stars:** 5715 | **Language:** None
+**Stars:** 5719 | **Language:** None
 
-**Last Updated:** 2024-12-09T13:47:31Z
+**Last Updated:** 2024-12-10T23:22:45Z
 
 
 ---
@@ -4063,9 +4063,9 @@ Network Defense System.
 
 Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 
-**Stars:** 451 | **Language:** JavaScript
+**Stars:** 457 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T15:12:10Z
+**Last Updated:** 2024-12-10T13:05:28Z
 
 
 ---
@@ -4074,9 +4074,9 @@ Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 
 Different methods to get current username without using whoami
 
-**Stars:** 172 | **Language:** C#
+**Stars:** 173 | **Language:** C#
 
-**Last Updated:** 2024-10-16T15:43:36Z
+**Last Updated:** 2024-12-10T14:38:43Z
 
 
 ---
@@ -4096,9 +4096,9 @@ A Chrome/Firefox browser extension to show alerts for reflected query params, sh
 
 Upload arbitrary data via Apple's Find My network.
 
-**Stars:** 1801 | **Language:** C
+**Stars:** 1802 | **Language:** C
 
-**Last Updated:** 2024-11-28T00:47:17Z
+**Last Updated:** 2024-12-10T08:08:28Z
 
 
 ---
@@ -4107,9 +4107,9 @@ Upload arbitrary data via Apple's Find My network.
 
 This is a collection of my pentesting scripts I have come up with
 
-**Stars:** 241 | **Language:** PowerShell
+**Stars:** 240 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-08T13:51:30Z
+**Last Updated:** 2024-12-10T09:14:02Z
 
 
 ---
@@ -4129,9 +4129,9 @@ LLM Prompt Injection Detector
 
 WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device
 
-**Stars:** 948 | **Language:** C
+**Stars:** 949 | **Language:** C
 
-**Last Updated:** 2024-12-08T13:40:23Z
+**Last Updated:** 2024-12-10T06:47:47Z
 
 
 ---
@@ -4184,9 +4184,9 @@ Awesome VirusTotal Intelligence Search Queries
 
 Protected Process Dumper Tool
 
-**Stars:** 521 | **Language:** Go
+**Stars:** 522 | **Language:** Go
 
-**Last Updated:** 2024-11-26T08:56:15Z
+**Last Updated:** 2024-12-10T06:23:17Z
 
 
 ---
@@ -4228,9 +4228,9 @@ None
 
 A Workflow Engine for Offensive Security
 
-**Stars:** 5392 | **Language:** Go
+**Stars:** 5394 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:45:30Z
+**Last Updated:** 2024-12-10T18:29:55Z
 
 
 ---
@@ -4272,9 +4272,9 @@ RedTeam/Pentest notes and experiments tested on several infrastructures related 
 
 The Network Execution Tool
 
-**Stars:** 3338 | **Language:** Python
+**Stars:** 3342 | **Language:** Python
 
-**Last Updated:** 2024-12-09T00:13:14Z
+**Last Updated:** 2024-12-10T22:50:45Z
 
 
 ---
@@ -4294,9 +4294,9 @@ A GUI for the Chameleon Ultra written in Flutter for crossplatform
 
 The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
 
-**Stars:** 983 | **Language:** C
+**Stars:** 985 | **Language:** C
 
-**Last Updated:** 2024-12-09T16:38:17Z
+**Last Updated:** 2024-12-10T17:18:21Z
 
 
 ---
@@ -4316,9 +4316,9 @@ None
 
 Apple BLE proximity pairing message spoofing
 
-**Stars:** 1712 | **Language:** Python
+**Stars:** 1713 | **Language:** Python
 
-**Last Updated:** 2024-12-08T03:02:07Z
+**Last Updated:** 2024-12-10T17:48:29Z
 
 
 ---
@@ -4340,7 +4340,7 @@ This repo contains hourly-updated data dumps of bug bounty platform scopes (like
 
 **Stars:** 3177 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:33:51Z
+**Last Updated:** 2024-12-10T23:34:23Z
 
 
 ---
@@ -4371,9 +4371,9 @@ None
 
 A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 
-**Stars:** 2728 | **Language:** Go
+**Stars:** 2727 | **Language:** Go
 
-**Last Updated:** 2024-12-09T20:53:26Z
+**Last Updated:** 2024-12-10T07:47:17Z
 
 
 ---
@@ -4481,9 +4481,9 @@ The ARTful library for dynamically modifying the Android Runtime
 
 Conference presentation slides
 
-**Stars:** 1528 | **Language:** None
+**Stars:** 1529 | **Language:** None
 
-**Last Updated:** 2024-12-08T17:45:16Z
+**Last Updated:** 2024-12-10T07:54:55Z
 
 
 ---
@@ -4514,9 +4514,9 @@ This python program gets all the saved passwords, credit cards and bookmarks fro
 
 Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android
 
-**Stars:** 2090 | **Language:** YARA
+**Stars:** 2092 | **Language:** YARA
 
-**Last Updated:** 2024-12-09T03:14:24Z
+**Last Updated:** 2024-12-10T10:41:33Z
 
 
 ---
@@ -4591,9 +4591,9 @@ Install and upgrade projectdiscovery tools
 
 ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
 
-**Stars:** 1935 | **Language:** PHP
+**Stars:** 1936 | **Language:** PHP
 
-**Last Updated:** 2024-12-09T20:27:09Z
+**Last Updated:** 2024-12-10T16:00:50Z
 
 
 ---
@@ -4613,9 +4613,9 @@ NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-R
 
 signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 
-**Stars:** 3245 | **Language:** Java
+**Stars:** 3246 | **Language:** Java
 
-**Last Updated:** 2024-12-09T09:12:04Z
+**Last Updated:** 2024-12-10T21:07:07Z
 
 
 ---
@@ -4624,9 +4624,9 @@ signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for t
 
 :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 
-**Stars:** 6724 | **Language:** Go
+**Stars:** 6728 | **Language:** Go
 
-**Last Updated:** 2024-12-09T22:24:20Z
+**Last Updated:** 2024-12-10T18:01:12Z
 
 
 ---
@@ -4635,9 +4635,9 @@ signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for t
 
 A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. 
 
-**Stars:** 571 | **Language:** Go
+**Stars:** 572 | **Language:** Go
 
-**Last Updated:** 2024-12-06T03:09:51Z
+**Last Updated:** 2024-12-10T02:29:51Z
 
 
 ---
@@ -4701,9 +4701,9 @@ Corelan Repository for mona.py
 
 Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
 
-**Stars:** 594 | **Language:** Go
+**Stars:** 597 | **Language:** Go
 
-**Last Updated:** 2024-12-09T14:48:30Z
+**Last Updated:** 2024-12-10T16:57:54Z
 
 
 ---
@@ -4734,9 +4734,9 @@ None
 
 ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 
-**Stars:** 3891 | **Language:** Ruby
+**Stars:** 3893 | **Language:** Ruby
 
-**Last Updated:** 2024-12-09T20:25:35Z
+**Last Updated:** 2024-12-10T14:32:01Z
 
 
 ---
@@ -4767,9 +4767,9 @@ None
 
 A collection of awesome penetration testing resources, tools and other shiny things
 
-**Stars:** 22065 | **Language:** None
+**Stars:** 22070 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:44:24Z
+**Last Updated:** 2024-12-10T20:37:59Z
 
 
 ---
@@ -4789,9 +4789,9 @@ Alpine hostapd-mana based RADIUS server
 
 linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
 
-**Stars:** 1834 | **Language:** Shell
+**Stars:** 1835 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T17:35:29Z
+**Last Updated:** 2024-12-10T13:49:37Z
 
 
 ---
@@ -4822,9 +4822,9 @@ NetSPI PowerShell Scripts
 
 A swiss army knife for pentesting networks
 
-**Stars:** 8488 | **Language:** Python
+**Stars:** 8493 | **Language:** Python
 
-**Last Updated:** 2024-12-09T09:21:29Z
+**Last Updated:** 2024-12-10T23:57:53Z
 
 
 ---
@@ -4910,9 +4910,9 @@ A directory traversal tool for discovering injection paths
 
 Interact with your documents using the power of GPT, 100% privately, no data leaks
 
-**Stars:** 54385 | **Language:** Python
+**Stars:** 54398 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:54:46Z
+**Last Updated:** 2024-12-10T20:48:01Z
 
 
 ---
@@ -4932,9 +4932,9 @@ Cairo/Starknet security toolkit (bytecode analyzer, disassembler, decompiler, sy
 
 Extract URLs, paths, secrets, and other interesting bits from JavaScript
 
-**Stars:** 1430 | **Language:** Go
+**Stars:** 1431 | **Language:** Go
 
-**Last Updated:** 2024-12-09T21:12:13Z
+**Last Updated:** 2024-12-10T05:41:11Z
 
 
 ---
@@ -4943,9 +4943,9 @@ Extract URLs, paths, secrets, and other interesting bits from JavaScript
 
 A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 
-**Stars:** 2001 | **Language:** Java
+**Stars:** 2004 | **Language:** Java
 
-**Last Updated:** 2024-12-07T08:12:51Z
+**Last Updated:** 2024-12-10T16:57:09Z
 
 
 ---
@@ -4967,7 +4967,7 @@ Black box fuzzer for web applications
 
 **Stars:** 408 | **Language:** Go
 
-**Last Updated:** 2024-12-09T09:15:36Z
+**Last Updated:** 2024-12-10T03:17:57Z
 
 
 ---
@@ -4987,9 +4987,9 @@ EndExt is a .go tool for extracting all the possible endpoints from the JS files
 
 Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.
 
-**Stars:** 735 | **Language:** C++
+**Stars:** 736 | **Language:** C++
 
-**Last Updated:** 2024-12-05T10:07:36Z
+**Last Updated:** 2024-12-10T15:40:56Z
 
 
 ---
@@ -4998,9 +4998,9 @@ Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exp
 
 Monitor linux processes without root permissions
 
-**Stars:** 4998 | **Language:** Go
+**Stars:** 5000 | **Language:** Go
 
-**Last Updated:** 2024-12-09T21:46:16Z
+**Last Updated:** 2024-12-10T08:06:30Z
 
 
 ---
@@ -5020,9 +5020,9 @@ Monitor linux processes without root permissions
 
 An XSS Exploitation Tool
 
-**Stars:** 277 | **Language:** JavaScript
+**Stars:** 278 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T21:06:17Z
+**Last Updated:** 2024-12-10T21:52:04Z
 
 
 ---
@@ -5031,9 +5031,9 @@ An XSS Exploitation Tool
 
 Contextual Content Discovery Tool
 
-**Stars:** 2682 | **Language:** Go
+**Stars:** 2685 | **Language:** Go
 
-**Last Updated:** 2024-12-09T01:44:24Z
+**Last Updated:** 2024-12-10T10:23:16Z
 
 
 ---
@@ -5042,9 +5042,9 @@ Contextual Content Discovery Tool
 
 CTF framework and exploit development library
 
-**Stars:** 12192 | **Language:** Python
+**Stars:** 12193 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:43:55Z
+**Last Updated:** 2024-12-10T21:47:52Z
 
 
 ---
@@ -5064,9 +5064,9 @@ Chat automates Nuclei template generation
 
 Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 
-**Stars:** 2350 | **Language:** Rust
+**Stars:** 2352 | **Language:** Rust
 
-**Last Updated:** 2024-12-09T17:23:50Z
+**Last Updated:** 2024-12-10T21:08:09Z
 
 
 ---
@@ -5075,9 +5075,9 @@ Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline gener
 
 Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
-**Stars:** 9130 | **Language:** Python
+**Stars:** 9132 | **Language:** Python
 
-**Last Updated:** 2024-12-09T19:25:15Z
+**Last Updated:** 2024-12-10T22:45:00Z
 
 
 ---
@@ -5119,9 +5119,9 @@ A collection of bookmarks for penetration testers, bug bounty hunters,  malware 
 
 Zehef is an osint tool to track emails
 
-**Stars:** 655 | **Language:** Python
+**Stars:** 674 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:42:24Z
+**Last Updated:** 2024-12-10T20:59:38Z
 
 
 ---
@@ -5152,9 +5152,9 @@ The OSINT project, the main idea of which is to collect all the possible Google 
 
 An ArchLinux based distribution for penetration testers and security researchers.
 
-**Stars:** 2862 | **Language:** Shell
+**Stars:** 2864 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T13:30:29Z
+**Last Updated:** 2024-12-10T22:49:58Z
 
 
 ---
@@ -5174,9 +5174,9 @@ This script is designed to automate the reconnaissance process for a target webs
 
 None
 
-**Stars:** 1812 | **Language:** C#
+**Stars:** 1816 | **Language:** C#
 
-**Last Updated:** 2024-12-09T07:07:48Z
+**Last Updated:** 2024-12-10T14:35:28Z
 
 
 ---
@@ -5185,9 +5185,9 @@ None
 
 A GPT-empowered penetration testing tool
 
-**Stars:** 7348 | **Language:** Python
+**Stars:** 7350 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:43:09Z
+**Last Updated:** 2024-12-10T23:40:00Z
 
 
 ---
@@ -5196,9 +5196,9 @@ A GPT-empowered penetration testing tool
 
 A tool for adding new lines to files, skipping duplicates
 
-**Stars:** 1409 | **Language:** Go
+**Stars:** 1411 | **Language:** Go
 
-**Last Updated:** 2024-12-09T19:56:30Z
+**Last Updated:** 2024-12-10T18:52:44Z
 
 
 ---
@@ -5240,9 +5240,9 @@ My Priv8 Nuclei Templates
 
 one-click face swap
 
-**Stars:** 28733 | **Language:** Python
+**Stars:** 28748 | **Language:** Python
 
-**Last Updated:** 2024-12-09T17:21:08Z
+**Last Updated:** 2024-12-10T18:13:47Z
 
 
 ---
@@ -5273,9 +5273,9 @@ Haven is for people who need a way to protect their personal spaces and possessi
 
 Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
 
-**Stars:** 889 | **Language:** Go
+**Stars:** 899 | **Language:** Go
 
-**Last Updated:** 2024-12-09T17:00:35Z
+**Last Updated:** 2024-12-10T21:34:35Z
 
 
 ---
@@ -5350,9 +5350,9 @@ Public repo of Nuclei scanner templates.
 
 A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.
 
-**Stars:** 558 | **Language:** C
+**Stars:** 557 | **Language:** C
 
-**Last Updated:** 2024-12-07T20:37:29Z
+**Last Updated:** 2024-12-10T01:23:32Z
 
 
 ---
@@ -5372,9 +5372,9 @@ Bash script to check for CVE-2022-0847 "Dirty Pipe"
 
 An OOB interaction gathering server and client library
 
-**Stars:** 3479 | **Language:** Go
+**Stars:** 3482 | **Language:** Go
 
-**Last Updated:** 2024-12-09T01:44:22Z
+**Last Updated:** 2024-12-10T16:10:49Z
 
 
 ---
@@ -5394,9 +5394,9 @@ This is a shell script that creates an SSH backdoor on an iPhone.
 
 Nyxt - the hacker's browser.
 
-**Stars:** 10058 | **Language:** Common Lisp
+**Stars:** 10077 | **Language:** Common Lisp
 
-**Last Updated:** 2024-12-09T23:09:12Z
+**Last Updated:** 2024-12-10T22:35:35Z
 
 
 ---
@@ -5405,9 +5405,9 @@ Nyxt - the hacker's browser.
 
 Discover new target domains using Content Security Policy 
 
-**Stars:** 382 | **Language:** Go
+**Stars:** 383 | **Language:** Go
 
-**Last Updated:** 2024-12-03T08:15:12Z
+**Last Updated:** 2024-12-10T17:16:00Z
 
 
 ---
@@ -5515,9 +5515,9 @@ DotDotPwn - The Directory Traversal Fuzzer
 
 Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 
-**Stars:** 1678 | **Language:** Python
+**Stars:** 1679 | **Language:** Python
 
-**Last Updated:** 2024-11-29T16:12:03Z
+**Last Updated:** 2024-12-10T10:33:09Z
 
 
 ---
@@ -5526,9 +5526,9 @@ Gives you one-liners that aids in penetration testing operations, privilege esca
 
 PingCastle - Get Active Directory Security at 80% in 20% of the time
 
-**Stars:** 2372 | **Language:** C#
+**Stars:** 2376 | **Language:** C#
 
-**Last Updated:** 2024-12-09T20:12:38Z
+**Last Updated:** 2024-12-10T22:59:25Z
 
 
 ---
@@ -5570,9 +5570,9 @@ Recon MindMap (RMM)
 
 A curated list of awesome Hacking tutorials, tools and resources
 
-**Stars:** 13277 | **Language:** None
+**Stars:** 13282 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:00:35Z
+**Last Updated:** 2024-12-10T23:01:39Z
 
 
 ---
@@ -5581,9 +5581,9 @@ A curated list of awesome Hacking tutorials, tools and resources
 
 An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 
-**Stars:** 560 | **Language:** None
+**Stars:** 561 | **Language:** None
 
-**Last Updated:** 2024-12-09T18:18:44Z
+**Last Updated:** 2024-12-10T10:21:50Z
 
 
 ---
@@ -5614,9 +5614,9 @@ A cheat sheet that contains advanced queries for SQL Injection of all types.
 
 An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 
-**Stars:** 4806 | **Language:** Python
+**Stars:** 4808 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:43:28Z
+**Last Updated:** 2024-12-10T13:24:33Z
 
 
 ---
@@ -5636,9 +5636,9 @@ i will upload more templates here to share with  the comunity.
 
 Tips and Tutorials for Bug Bounty and also Penetration Tests.
 
-**Stars:** 1419 | **Language:** None
+**Stars:** 1420 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:27:26Z
+**Last Updated:** 2024-12-10T08:10:58Z
 
 
 ---
@@ -5647,9 +5647,9 @@ Tips and Tutorials for Bug Bounty and also Penetration Tests.
 
 A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 
-**Stars:** 4698 | **Language:** None
+**Stars:** 4700 | **Language:** None
 
-**Last Updated:** 2024-12-09T18:47:15Z
+**Last Updated:** 2024-12-10T22:52:28Z
 
 
 ---
@@ -5658,9 +5658,9 @@ A comprehensive curated list of available Bug Bounty & Disclosure Programs and W
 
 A fork and successor of the Sulley Fuzzing Framework
 
-**Stars:** 2051 | **Language:** Python
+**Stars:** 2052 | **Language:** Python
 
-**Last Updated:** 2024-12-09T09:59:22Z
+**Last Updated:** 2024-12-10T13:43:10Z
 
 
 ---
@@ -5691,9 +5691,9 @@ A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bo
 
 BleachBit system cleaner for Windows and Linux
 
-**Stars:** 3126 | **Language:** Python
+**Stars:** 3127 | **Language:** Python
 
-**Last Updated:** 2024-12-09T02:50:42Z
+**Last Updated:** 2024-12-10T15:00:48Z
 
 
 ---
@@ -5702,9 +5702,9 @@ BleachBit system cleaner for Windows and Linux
 
 Web path scanner
 
-**Stars:** 12298 | **Language:** Python
+**Stars:** 12302 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:08:47Z
+**Last Updated:** 2024-12-10T18:24:39Z
 
 
 ---
@@ -5757,9 +5757,9 @@ Utility program to perform multiple operations for a given subnet/CIDR ranges.
 
 Go CLI and Library for quickly mapping organization network ranges using ASN information.
 
-**Stars:** 788 | **Language:** Go
+**Stars:** 790 | **Language:** Go
 
-**Last Updated:** 2024-12-09T14:53:19Z
+**Last Updated:** 2024-12-10T16:45:21Z
 
 
 ---
@@ -5768,9 +5768,9 @@ Go CLI and Library for quickly mapping organization network ranges using ASN inf
 
 Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.
 
-**Stars:** 1684 | **Language:** Java
+**Stars:** 1685 | **Language:** Java
 
-**Last Updated:** 2024-12-04T13:24:45Z
+**Last Updated:** 2024-12-10T17:24:36Z
 
 
 ---
@@ -5779,9 +5779,9 @@ Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that
 
 StableLM: Stability AI Language Models
 
-**Stars:** 15834 | **Language:** Jupyter Notebook
+**Stars:** 15833 | **Language:** Jupyter Notebook
 
-**Last Updated:** 2024-12-09T17:19:41Z
+**Last Updated:** 2024-12-10T19:32:36Z
 
 
 ---
@@ -5790,9 +5790,9 @@ StableLM: Stability AI Language Models
 
 Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.
 
-**Stars:** 3749 | **Language:** Python
+**Stars:** 3748 | **Language:** Python
 
-**Last Updated:** 2024-12-09T01:43:31Z
+**Last Updated:** 2024-12-10T11:10:32Z
 
 
 ---
@@ -5823,9 +5823,9 @@ A collection of tools to perform searches on GitHub.
 
 Easily Flash Marauder onto the Flipper Zero Devboard or an ESP32!
 
-**Stars:** 1107 | **Language:** Python
+**Stars:** 1109 | **Language:** Python
 
-**Last Updated:** 2024-12-09T22:42:24Z
+**Last Updated:** 2024-12-10T22:36:49Z
 
 
 ---
@@ -5834,9 +5834,9 @@ Easily Flash Marauder onto the Flipper Zero Devboard or an ESP32!
 
 None
 
-**Stars:** 187 | **Language:** HTML
+**Stars:** 188 | **Language:** HTML
 
-**Last Updated:** 2024-12-08T08:54:43Z
+**Last Updated:** 2024-12-10T01:51:57Z
 
 
 ---
@@ -5845,9 +5845,9 @@ None
 
 Robust Speech Recognition via Large-Scale Weak Supervision
 
-**Stars:** 72527 | **Language:** Python
+**Stars:** 72591 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:29:55Z
+**Last Updated:** 2024-12-10T23:50:20Z
 
 
 ---
@@ -5856,9 +5856,9 @@ Robust Speech Recognition via Large-Scale Weak Supervision
 
 A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 
-**Stars:** 6277 | **Language:** C++
+**Stars:** 6282 | **Language:** C++
 
-**Last Updated:** 2024-12-09T17:16:41Z
+**Last Updated:** 2024-12-10T19:14:30Z
 
 
 ---
@@ -5900,9 +5900,9 @@ This cheatsheet is built for the Bug Bounty Hunters and penetration testers in o
 
 The all-in-one browser extension for offensive security professionals 🛠
 
-**Stars:** 5852 | **Language:** TypeScript
+**Stars:** 5855 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T19:20:46Z
+**Last Updated:** 2024-12-10T17:03:00Z
 
 
 ---
@@ -5911,9 +5911,9 @@ The all-in-one browser extension for offensive security professionals 🛠
 
 Subdomain Takeover tool written in Go
 
-**Stars:** 1916 | **Language:** Go
+**Stars:** 1918 | **Language:** Go
 
-**Last Updated:** 2024-12-04T01:02:45Z
+**Last Updated:** 2024-12-10T14:57:33Z
 
 
 ---
@@ -5922,9 +5922,9 @@ Subdomain Takeover tool written in Go
 
 Six Degrees of Domain Admin
 
-**Stars:** 9962 | **Language:** PowerShell
+**Stars:** 9965 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T17:33:42Z
+**Last Updated:** 2024-12-10T07:24:38Z
 
 
 ---
@@ -5944,9 +5944,9 @@ Streamline your recon and vulnerability detection process with SCRIPTKIDDI3, A r
 
 Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
 
-**Stars:** 3835 | **Language:** Python
+**Stars:** 3840 | **Language:** Python
 
-**Last Updated:** 2024-12-09T18:18:43Z
+**Last Updated:** 2024-12-10T21:55:05Z
 
 
 ---
@@ -5977,9 +5977,9 @@ ProjectDiscovery's Open Source Tool Manager
 
 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
-**Stars:** 17660 | **Language:** JavaScript
+**Stars:** 17667 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T23:25:59Z
+**Last Updated:** 2024-12-10T22:02:25Z
 
 
 ---
@@ -6010,9 +6010,9 @@ There is more than google: A collection of great online maps 🌍🗺🌎
 
 None
 
-**Stars:** 4426 | **Language:** None
+**Stars:** 4430 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:02:06Z
+**Last Updated:** 2024-12-10T06:00:23Z
 
 
 ---
@@ -6043,9 +6043,9 @@ Handy scripts and one-liners to make life easier
 
 Real-world infosec wordlists, updated regularly
 
-**Stars:** 1411 | **Language:** None
+**Stars:** 1413 | **Language:** None
 
-**Last Updated:** 2024-12-09T12:47:35Z
+**Last Updated:** 2024-12-10T23:38:25Z
 
 
 ---
@@ -6054,9 +6054,9 @@ Real-world infosec wordlists, updated regularly
 
 Gather and update all available and newest CVEs with their PoC.
 
-**Stars:** 6620 | **Language:** HTML
+**Stars:** 6621 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T22:30:56Z
+**Last Updated:** 2024-12-10T22:30:41Z
 
 
 ---
@@ -6065,9 +6065,9 @@ Gather and update all available and newest CVEs with their PoC.
 
 Fast web fuzzer written in Go
 
-**Stars:** 12843 | **Language:** Go
+**Stars:** 12849 | **Language:** Go
 
-**Last Updated:** 2024-12-09T21:42:53Z
+**Last Updated:** 2024-12-10T18:55:20Z
 
 
 ---
@@ -6076,9 +6076,9 @@ Fast web fuzzer written in Go
 
 Directory/File, DNS and VHost busting tool written in Go
 
-**Stars:** 10298 | **Language:** Go
+**Stars:** 10309 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:51:52Z
+**Last Updated:** 2024-12-10T19:03:18Z
 
 
 ---
@@ -6098,9 +6098,9 @@ Golang client for querying SecurityTrails API data
 
 Find domains and subdomains related to a given domain
 
-**Stars:** 3073 | **Language:** Go
+**Stars:** 3074 | **Language:** Go
 
-**Last Updated:** 2024-12-09T18:18:39Z
+**Last Updated:** 2024-12-10T18:53:27Z
 
 
 ---
@@ -6109,9 +6109,9 @@ Find domains and subdomains related to a given domain
 
 Fast subdomains enumeration tool for penetration testers
 
-**Stars:** 9939 | **Language:** Python
+**Stars:** 9940 | **Language:** Python
 
-**Last Updated:** 2024-12-09T15:33:49Z
+**Last Updated:** 2024-12-10T15:10:22Z
 
 
 ---
@@ -6120,9 +6120,9 @@ Fast subdomains enumeration tool for penetration testers
 
 👻 Experimental library for scraping websites using OpenAI's GPT API.
 
-**Stars:** 1428 | **Language:** Python
+**Stars:** 1429 | **Language:** Python
 
-**Last Updated:** 2024-12-05T15:36:06Z
+**Last Updated:** 2024-12-10T01:36:28Z
 
 
 ---
@@ -6142,9 +6142,9 @@ Win32 and Kernel abusing techniques for pentesters
 
 Playground (and dump) of stuff I make or modify for the Flipper Zero
 
-**Stars:** 14105 | **Language:** C
+**Stars:** 14114 | **Language:** C
 
-**Last Updated:** 2024-12-09T23:29:18Z
+**Last Updated:** 2024-12-10T20:58:20Z
 
 
 ---
@@ -6155,7 +6155,7 @@ hack5 badusb payloads moded for be played with flipper zero
 
 **Stars:** 1105 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T11:42:30Z
+**Last Updated:** 2024-12-10T19:44:31Z
 
 
 ---
@@ -6164,9 +6164,9 @@ hack5 badusb payloads moded for be played with flipper zero
 
 Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 
-**Stars:** 5386 | **Language:** PowerShell
+**Stars:** 5392 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T21:24:28Z
+**Last Updated:** 2024-12-10T19:58:10Z
 
 
 ---
@@ -6175,9 +6175,9 @@ Repository for my flipper zero badUSB payloads. Now almost entirely plug and pla
 
 This repository is a collection of powershell functions every hacker should know 
 
-**Stars:** 1140 | **Language:** PowerShell
+**Stars:** 1141 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-08T03:23:54Z
+**Last Updated:** 2024-12-10T15:04:21Z
 
 
 ---
@@ -6208,9 +6208,9 @@ Wireless keystroke injection attack platform
 
 Iceman Fork - Proxmark3
 
-**Stars:** 4095 | **Language:** C
+**Stars:** 4098 | **Language:** C
 
-**Last Updated:** 2024-12-09T16:38:10Z
+**Last Updated:** 2024-12-10T16:32:55Z
 
 
 ---
@@ -6230,9 +6230,9 @@ A source code static analysis platform for AppSec enthusiasts.
 
 A multi-purpose OSINT toolkit with a neat web-interface.
 
-**Stars:** 573 | **Language:** Go
+**Stars:** 574 | **Language:** Go
 
-**Last Updated:** 2024-12-08T11:25:30Z
+**Last Updated:** 2024-12-10T05:05:04Z
 
 
 ---
@@ -6241,9 +6241,9 @@ A multi-purpose OSINT toolkit with a neat web-interface.
 
 Flipper Zero Unleashed Firmware
 
-**Stars:** 17803 | **Language:** C
+**Stars:** 17818 | **Language:** C
 
-**Last Updated:** 2024-12-09T23:56:38Z
+**Last Updated:** 2024-12-10T21:13:12Z
 
 
 ---
@@ -6252,9 +6252,9 @@ Flipper Zero Unleashed Firmware
 
 A collective of different IRs for the Flipper
 
-**Stars:** 2110 | **Language:** None
+**Stars:** 2114 | **Language:** None
 
-**Last Updated:** 2024-12-09T19:38:14Z
+**Last Updated:** 2024-12-10T23:32:27Z
 
 
 ---
@@ -6263,9 +6263,9 @@ A collective of different IRs for the Flipper
 
 🐬 A collection of awesome resources for the Flipper Zero device.
 
-**Stars:** 19144 | **Language:** None
+**Stars:** 19151 | **Language:** None
 
-**Last Updated:** 2024-12-09T19:57:29Z
+**Last Updated:** 2024-12-10T23:12:38Z
 
 
 ---
@@ -6296,9 +6296,9 @@ Fast and customizable subdomain wordlist generator using DSL
 
 Automatic SSRF fuzzer and exploitation tool
 
-**Stars:** 3023 | **Language:** Python
+**Stars:** 3024 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:38:30Z
+**Last Updated:** 2024-12-10T06:55:20Z
 
 
 ---
@@ -6318,9 +6318,9 @@ Forked from @MikhaD
 
 Find interesting files stored on (System Center) Configuration Manager (SCCM/CM) SMB shares
 
-**Stars:** 160 | **Language:** PowerShell
+**Stars:** 163 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T19:29:21Z
+**Last Updated:** 2024-12-10T19:44:41Z
 
 
 ---
@@ -6342,18 +6342,18 @@ Crack hashes in seconds.
 
 **Stars:** 1761 | **Language:** Python
 
-**Last Updated:** 2024-12-08T04:33:28Z
+**Last Updated:** 2024-12-10T13:50:31Z
 
 
 ---
 
 ## [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
-Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+AI chat for any model.
 
-**Stars:** 28958 | **Language:** TypeScript
+**Stars:** 28965 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T21:44:11Z
+**Last Updated:** 2024-12-10T20:37:24Z
 
 
 ---
@@ -6362,9 +6362,9 @@ Come join the best place on the internet to learn AI skills. Use code "chatbotui
 
 EMBA - The firmware security analyzer
 
-**Stars:** 2746 | **Language:** Shell
+**Stars:** 2749 | **Language:** Shell
 
-**Last Updated:** 2024-12-08T20:55:32Z
+**Last Updated:** 2024-12-10T20:14:51Z
 
 
 ---
@@ -6384,9 +6384,9 @@ None
 
 Compilation of Resources from TCM's Windows Priv Esc Udemy Course
 
-**Stars:** 703 | **Language:** None
+**Stars:** 704 | **Language:** None
 
-**Last Updated:** 2024-12-03T17:23:41Z
+**Last Updated:** 2024-12-10T22:12:33Z
 
 
 ---
@@ -6395,9 +6395,9 @@ Compilation of Resources from TCM's Windows Priv Esc Udemy Course
 
 Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.
 
-**Stars:** 4160 | **Language:** Python
+**Stars:** 4165 | **Language:** Python
 
-**Last Updated:** 2024-12-09T18:58:50Z
+**Last Updated:** 2024-12-10T23:01:17Z
 
 
 ---
@@ -6406,9 +6406,9 @@ Open Source Intelligence gathering tool aimed at reducing the time spent harvest
 
 Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 
-**Stars:** 848 | **Language:** Go
+**Stars:** 850 | **Language:** Go
 
-**Last Updated:** 2024-12-09T01:44:40Z
+**Last Updated:** 2024-12-10T23:38:36Z
 
 
 ---
@@ -6417,9 +6417,9 @@ Tool for discovering the origin host behind a reverse proxy. Useful for bypassin
 
 fsociety Hacking Tools Pack – A Penetration Testing Framework
 
-**Stars:** 10678 | **Language:** Python
+**Stars:** 10682 | **Language:** Python
 
-**Last Updated:** 2024-12-09T07:06:14Z
+**Last Updated:** 2024-12-10T21:51:47Z
 
 
 ---
@@ -6450,9 +6450,9 @@ Web recon script. No need to fear, sumrecon is here!
 
 PyInstaller Extractor
 
-**Stars:** 3017 | **Language:** Python
+**Stars:** 3019 | **Language:** Python
 
-**Last Updated:** 2024-12-09T10:40:27Z
+**Last Updated:** 2024-12-10T09:36:39Z
 
 
 ---
@@ -6472,9 +6472,9 @@ None
 
 A simple script just made for self use for bypassing 403
 
-**Stars:** 1749 | **Language:** Shell
+**Stars:** 1751 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T16:07:34Z
+**Last Updated:** 2024-12-10T12:04:47Z
 
 
 ---
@@ -6505,9 +6505,9 @@ A collection of small scripts and tools for deobfuscation and malware analysis.
 
 A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
-**Stars:** 61846 | **Language:** Python
+**Stars:** 61862 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:09:51Z
+**Last Updated:** 2024-12-10T20:56:57Z
 
 
 ---
@@ -6527,9 +6527,9 @@ Email OSINT & Password breach hunting tool, locally or using premium services. S
 
 This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 
-**Stars:** 1840 | **Language:** None
+**Stars:** 1841 | **Language:** None
 
-**Last Updated:** 2024-12-09T09:35:49Z
+**Last Updated:** 2024-12-10T13:30:16Z
 
 
 ---
@@ -6626,9 +6626,9 @@ Check your WAF before an attacker does
 
 Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
-**Stars:** 6300 | **Language:** Go
+**Stars:** 6303 | **Language:** Go
 
-**Last Updated:** 2024-12-09T15:06:59Z
+**Last Updated:** 2024-12-10T16:38:55Z
 
 
 ---
@@ -6659,9 +6659,9 @@ apk.sh makes reverse engineering Android apps easier, automating some repetitive
 
 Small and highly portable detection tests based on MITRE's ATT&CK.
 
-**Stars:** 9928 | **Language:** C
+**Stars:** 9936 | **Language:** C
 
-**Last Updated:** 2024-12-09T18:09:39Z
+**Last Updated:** 2024-12-11T00:00:07Z
 
 
 ---
@@ -6714,9 +6714,9 @@ Jam all wifi clients/routers.
 
 Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 
-**Stars:** 5157 | **Language:** None
+**Stars:** 5158 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:26:45Z
+**Last Updated:** 2024-12-10T14:02:23Z
 
 
 ---
@@ -6738,7 +6738,7 @@ Kali Linux Fixes for Newly Imported VM's
 
 **Stars:** 1988 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T17:59:10Z
+**Last Updated:** 2024-12-10T03:15:29Z
 
 
 ---
@@ -6747,9 +6747,9 @@ Kali Linux Fixes for Newly Imported VM's
 
 Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 
-**Stars:** 4432 | **Language:** None
+**Stars:** 4435 | **Language:** None
 
-**Last Updated:** 2024-12-09T01:48:22Z
+**Last Updated:** 2024-12-10T11:09:46Z
 
 
 ---
@@ -6758,9 +6758,9 @@ Complete Practical Study Plan to become a successful cybersecurity engineer base
 
 Powershell tool to automate Active Directory enumeration.
 
-**Stars:** 1015 | **Language:** PowerShell
+**Stars:** 1016 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-07T17:57:41Z
+**Last Updated:** 2024-12-10T17:56:07Z
 
 
 ---
@@ -6769,9 +6769,9 @@ Powershell tool to automate Active Directory enumeration.
 
 PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
 
-**Stars:** 378 | **Language:** C
+**Stars:** 381 | **Language:** C
 
-**Last Updated:** 2024-12-09T23:43:27Z
+**Last Updated:** 2024-12-10T14:20:01Z
 
 
 ---
@@ -6780,9 +6780,9 @@ PrivKit is a simple beacon object file that detects privilege escalation vulnera
 
 A list of interesting payloads, tips and tricks for bug bounty hunters.
 
-**Stars:** 5977 | **Language:** None
+**Stars:** 5978 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:26:40Z
+**Last Updated:** 2024-12-10T07:00:28Z
 
 
 ---
@@ -6813,9 +6813,9 @@ None
 
 Find, verify, and analyze leaked credentials
 
-**Stars:** 17507 | **Language:** Go
+**Stars:** 17523 | **Language:** Go
 
-**Last Updated:** 2024-12-09T21:31:54Z
+**Last Updated:** 2024-12-10T23:31:08Z
 
 
 ---
@@ -6824,9 +6824,9 @@ Find, verify, and analyze leaked credentials
 
 A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
 
-**Stars:** 398 | **Language:** C
+**Stars:** 399 | **Language:** C
 
-**Last Updated:** 2024-12-02T11:26:43Z
+**Last Updated:** 2024-12-10T10:57:14Z
 
 
 ---
@@ -6868,9 +6868,9 @@ FindUncommonShares is a Python script allowing to quickly find uncommon shares i
 
 Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication. 
 
-**Stars:** 5516 | **Language:** Python
+**Stars:** 5519 | **Language:** Python
 
-**Last Updated:** 2024-12-09T21:27:54Z
+**Last Updated:** 2024-12-10T17:08:45Z
 
 
 ---
@@ -6879,9 +6879,9 @@ Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP
 
 Burp Extension to find potential endpoints, parameters, and generate a custom target wordlist
 
-**Stars:** 1279 | **Language:** Python
+**Stars:** 1280 | **Language:** Python
 
-**Last Updated:** 2024-12-08T03:56:51Z
+**Last Updated:** 2024-12-10T10:12:38Z
 
 
 ---
@@ -6890,9 +6890,9 @@ Burp Extension to find potential endpoints, parameters, and generate a custom ta
 
 Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan & VirusTotal!
 
-**Stars:** 1780 | **Language:** Python
+**Stars:** 1783 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:36:47Z
+**Last Updated:** 2024-12-10T15:04:16Z
 
 
 ---
@@ -6912,9 +6912,9 @@ A python tool used to discover endpoints, potential parameters, and a target spe
 
 Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 
-**Stars:** 4525 | **Language:** Go
+**Stars:** 4527 | **Language:** Go
 
-**Last Updated:** 2024-12-09T09:11:41Z
+**Last Updated:** 2024-12-10T23:37:01Z
 
 
 ---
@@ -6978,9 +6978,9 @@ A permutation generation tool written in golang
 
 Fast passive subdomain enumeration tool.
 
-**Stars:** 10398 | **Language:** Go
+**Stars:** 10403 | **Language:** Go
 
-**Last Updated:** 2024-12-09T19:26:35Z
+**Last Updated:** 2024-12-10T18:52:02Z
 
 
 ---
@@ -6989,9 +6989,9 @@ Fast passive subdomain enumeration tool.
 
 A collection of several hundred online tools for OSINT
 
-**Stars:** 5545 | **Language:** HTML
+**Stars:** 5548 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T15:20:58Z
+**Last Updated:** 2024-12-10T22:14:57Z
 
 
 ---
@@ -7011,9 +7011,9 @@ A Go implementation of dirsearch.
 
 Proactive, Open source API security → API discovery, Testing in CI/CD, Test Library with 150+ Tests, Add custom tests, Sensitive data exposure
 
-**Stars:** 1103 | **Language:** Java
+**Stars:** 1104 | **Language:** Java
 
-**Last Updated:** 2024-12-07T18:07:19Z
+**Last Updated:** 2024-12-10T13:30:45Z
 
 
 ---
@@ -7033,9 +7033,9 @@ Some examples of GPT-4 for code!
 
 DroneSecurity (NDSS 2023)
 
-**Stars:** 1006 | **Language:** Python
+**Stars:** 1007 | **Language:** Python
 
-**Last Updated:** 2024-12-05T01:40:26Z
+**Last Updated:** 2024-12-10T02:55:34Z
 
 
 ---
@@ -7057,7 +7057,7 @@ A high performance offensive security tool for reconnaissance and vulnerability 
 
 **Stars:** 3104 | **Language:** Python
 
-**Last Updated:** 2024-12-09T03:15:29Z
+**Last Updated:** 2024-12-10T10:52:09Z
 
 
 ---
@@ -7088,9 +7088,9 @@ A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, ma
 
 Community curated list of templates for the nuclei engine to find security vulnerabilities.
 
-**Stars:** 9428 | **Language:** JavaScript
+**Stars:** 9435 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T18:18:40Z
+**Last Updated:** 2024-12-10T18:24:47Z
 
 
 ---
@@ -7121,9 +7121,9 @@ Bash tool used for proactive detection of malicious activity on macOS systems.
 
 ExifTool meta information reader/writer
 
-**Stars:** 3338 | **Language:** Perl
+**Stars:** 3343 | **Language:** Perl
 
-**Last Updated:** 2024-12-09T13:08:26Z
+**Last Updated:** 2024-12-10T15:17:08Z
 
 
 ---
@@ -7143,9 +7143,9 @@ Tool for testing reflections in the HTTP responses
 
 Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
 
-**Stars:** 4290 | **Language:** PowerShell
+**Stars:** 4292 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T17:40:50Z
+**Last Updated:** 2024-12-10T17:50:17Z
 
 
 ---
@@ -7165,9 +7165,9 @@ Cross Injector — A Python Script for Cross-Site Scripting (XSS) Detection
 
 The real PowerToys for Windows 11
 
-**Stars:** 5184 | **Language:** C#
+**Stars:** 5185 | **Language:** C#
 
-**Last Updated:** 2024-12-09T09:46:38Z
+**Last Updated:** 2024-12-10T02:34:31Z
 
 
 ---
@@ -7176,9 +7176,9 @@ The real PowerToys for Windows 11
 
 Collection of malware source code for a variety of platforms in an array of different programming languages.
 
-**Stars:** 16114 | **Language:** Assembly
+**Stars:** 16120 | **Language:** Assembly
 
-**Last Updated:** 2024-12-09T23:10:52Z
+**Last Updated:** 2024-12-10T22:40:41Z
 
 
 ---
@@ -7198,9 +7198,9 @@ Use HTTP Smuggling Lab to learn HTTP Smuggling.
 
 This is a multi-use bash script for Linux systems to audit wireless networks.
 
-**Stars:** 6576 | **Language:** Shell
+**Stars:** 6580 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T19:52:07Z
+**Last Updated:** 2024-12-10T06:59:34Z
 
 
 ---
@@ -7253,9 +7253,9 @@ Affordable WiFi hacking platform for testing and learning
 
 A Curated list of IoT Security Resources
 
-**Stars:** 2743 | **Language:** None
+**Stars:** 2745 | **Language:** None
 
-**Last Updated:** 2024-12-08T20:22:24Z
+**Last Updated:** 2024-12-10T22:44:42Z
 
 
 ---
@@ -7264,9 +7264,9 @@ A Curated list of IoT Security Resources
 
 Bug Bounty Roadmaps
 
-**Stars:** 1659 | **Language:** None
+**Stars:** 1660 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:27:21Z
+**Last Updated:** 2024-12-10T16:24:22Z
 
 
 ---
@@ -7330,9 +7330,9 @@ Extract JavaScript source trees from Sourcemap files
 
 Collection of Testflight public app link（iOS/iPad OS/macOS）。
 
-**Stars:** 3785 | **Language:** Python
+**Stars:** 3793 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:46:20Z
+**Last Updated:** 2024-12-10T21:28:13Z
 
 
 ---
@@ -7341,9 +7341,9 @@ Collection of Testflight public app link（iOS/iPad OS/macOS）。
 
 A list of resources for those interested in getting started in bug bounties
 
-**Stars:** 10807 | **Language:** None
+**Stars:** 10812 | **Language:** None
 
-**Last Updated:** 2024-12-09T19:54:35Z
+**Last Updated:** 2024-12-10T21:41:09Z
 
 
 ---
@@ -7363,9 +7363,9 @@ Kraken, a modular multi-language webshell coded by @secu_x11
 
 Veil 3.1.X (Check version info in Veil at runtime)
 
-**Stars:** 4013 | **Language:** Python
+**Stars:** 4015 | **Language:** Python
 
-**Last Updated:** 2024-12-09T17:12:42Z
+**Last Updated:** 2024-12-10T22:14:30Z
 
 
 ---
@@ -7374,9 +7374,9 @@ Veil 3.1.X (Check version info in Veil at runtime)
 
 Compilation of Resources from TCM's OSINT Course
 
-**Stars:** 913 | **Language:** Shell
+**Stars:** 914 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T03:44:07Z
+**Last Updated:** 2024-12-10T18:15:40Z
 
 
 ---
@@ -7385,9 +7385,9 @@ Compilation of Resources from TCM's OSINT Course
 
 Privilege Escalation Enumeration Script for Windows
 
-**Stars:** 3028 | **Language:** PowerShell
+**Stars:** 3029 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T13:03:16Z
+**Last Updated:** 2024-12-10T00:42:55Z
 
 
 ---
@@ -7396,9 +7396,9 @@ Privilege Escalation Enumeration Script for Windows
 
 Standalone Executable to Check for Simple Privilege Escalation Vectors on Windows Systems
 
-**Stars:** 1490 | **Language:** Python
+**Stars:** 1491 | **Language:** Python
 
-**Last Updated:** 2024-12-05T14:16:19Z
+**Last Updated:** 2024-12-10T11:57:14Z
 
 
 ---
@@ -7407,9 +7407,9 @@ Standalone Executable to Check for Simple Privilege Escalation Vectors on Window
 
 A collection of awesome one-liner scripts especially for bug bounty tips.
 
-**Stars:** 2718 | **Language:** None
+**Stars:** 2720 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:27:01Z
+**Last Updated:** 2024-12-10T20:35:18Z
 
 
 ---
@@ -7418,9 +7418,9 @@ A collection of awesome one-liner scripts especially for bug bounty tips.
 
 EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 
-**Stars:** 5034 | **Language:** Python
+**Stars:** 5036 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:43:45Z
+**Last Updated:** 2024-12-10T23:46:57Z
 
 
 ---
@@ -7429,9 +7429,9 @@ EyeWitness is designed to take screenshots of websites, provide some server head
 
 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 
-**Stars:** 3384 | **Language:** Go
+**Stars:** 3386 | **Language:** Go
 
-**Last Updated:** 2024-12-09T16:36:52Z
+**Last Updated:** 2024-12-10T20:55:47Z
 
 
 ---
@@ -7440,9 +7440,9 @@ EyeWitness is designed to take screenshots of websites, provide some server head
 
 Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 
-**Stars:** 1764 | **Language:** Go
+**Stars:** 1765 | **Language:** Go
 
-**Last Updated:** 2024-12-04T17:32:03Z
+**Last Updated:** 2024-12-10T15:57:04Z
 
 
 ---
@@ -7451,9 +7451,9 @@ Official Command Line Interface for the IPinfo API (IP geolocation and other typ
 
 Automated & Manual Wordlists provided by Assetnote
 
-**Stars:** 1341 | **Language:** CSS
+**Stars:** 1345 | **Language:** CSS
 
-**Last Updated:** 2024-12-09T13:34:29Z
+**Last Updated:** 2024-12-10T12:44:32Z
 
 
 ---
@@ -7464,7 +7464,7 @@ Attack Surface Management Platform
 
 **Stars:** 8183 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T18:09:10Z
+**Last Updated:** 2024-12-10T23:08:31Z
 
 
 ---
@@ -7484,9 +7484,9 @@ Passively scan for Bluetooth Low Energy devices and attempt to fingerprint them
 
 Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 
-**Stars:** 4042 | **Language:** Go
+**Stars:** 4043 | **Language:** Go
 
-**Last Updated:** 2024-12-09T09:12:44Z
+**Last Updated:** 2024-12-10T12:35:46Z
 
 
 ---
@@ -7495,9 +7495,9 @@ Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, an
 
 Fetch all the URLs that the Wayback Machine knows about for a domain
 
-**Stars:** 3584 | **Language:** Go
+**Stars:** 3587 | **Language:** Go
 
-**Last Updated:** 2024-12-09T18:18:36Z
+**Last Updated:** 2024-12-10T18:53:25Z
 
 
 ---
@@ -7517,9 +7517,9 @@ ChatGPT queries via OpenAI API in your terminal
 
 A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
 
-**Stars:** 3088 | **Language:** None
+**Stars:** 3092 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:53:03Z
+**Last Updated:** 2024-12-10T10:41:45Z
 
 
 ---
@@ -7528,9 +7528,9 @@ A collection of awesome API Security tools and resources. The focus goes to open
 
 Digging Deeper....
 
-**Stars:** 3011 | **Language:** Go
+**Stars:** 3014 | **Language:** Go
 
-**Last Updated:** 2024-12-09T17:24:30Z
+**Last Updated:** 2024-12-10T21:51:53Z
 
 
 ---
@@ -7539,9 +7539,9 @@ Digging Deeper....
 
 Useful Google Dorks for WebSecurity and Bug Bounty
 
-**Stars:** 1000 | **Language:** None
+**Stars:** 1002 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:28:09Z
+**Last Updated:** 2024-12-10T19:49:01Z
 
 
 ---
@@ -7561,9 +7561,9 @@ Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty 
 
 A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
 
-**Stars:** 4759 | **Language:** Python
+**Stars:** 4763 | **Language:** Python
 
-**Last Updated:** 2024-12-09T07:20:09Z
+**Last Updated:** 2024-12-10T14:25:01Z
 
 
 ---
@@ -7583,9 +7583,9 @@ Subdomains enumeration, various scans and testing of some vulnerabilities.
 
 Collection of methodology and test case for various web vulnerabilities.
 
-**Stars:** 6169 | **Language:** None
+**Stars:** 6171 | **Language:** None
 
-**Last Updated:** 2024-12-09T09:21:33Z
+**Last Updated:** 2024-12-10T22:23:30Z
 
 
 ---
@@ -7594,9 +7594,9 @@ Collection of methodology and test case for various web vulnerabilities.
 
 Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
-**Stars:** 25357 | **Language:** PowerShell
+**Stars:** 25430 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T23:59:50Z
+**Last Updated:** 2024-12-10T23:35:14Z
 
 
 ---
@@ -7616,9 +7616,9 @@ Offensive Web Testing Framework (OWTF), is a framework which tries to unite grea
 
 Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.
 
-**Stars:** 1997 | **Language:** None
+**Stars:** 1998 | **Language:** None
 
-**Last Updated:** 2024-12-09T01:44:04Z
+**Last Updated:** 2024-12-10T04:10:30Z
 
 
 ---
@@ -7638,9 +7638,9 @@ Selenium powered Python script to automate searching for vulnerable web apps.
 
 HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors
 
-**Stars:** 2861 | **Language:** JavaScript
+**Stars:** 2862 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-08T11:40:55Z
+**Last Updated:** 2024-12-10T01:20:18Z
 
 
 ---
@@ -7649,9 +7649,9 @@ HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors
 
 Open Source Intelligence Interface for Deep Web Scraping
 
-**Stars:** 909 | **Language:** Python
+**Stars:** 912 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:03:03Z
+**Last Updated:** 2024-12-10T22:45:42Z
 
 
 ---
@@ -7693,9 +7693,9 @@ Penetration tests guide based on OWASP including test cases, resources and examp
 
 Scripted Local Linux Enumeration & Privilege Escalation Checks
 
-**Stars:** 7085 | **Language:** Shell
+**Stars:** 7089 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T09:40:00Z
+**Last Updated:** 2024-12-10T21:58:06Z
 
 
 ---
@@ -7750,7 +7750,7 @@ Reverse engineered ChatGPT API
 
 **Stars:** 28054 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:53:13Z
+**Last Updated:** 2024-12-10T19:50:52Z
 
 
 ---
@@ -7836,9 +7836,9 @@ ChatGPT as a status bar item for macOS
 
 reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
-**Stars:** 5793 | **Language:** Shell
+**Stars:** 5796 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T19:24:39Z
+**Last Updated:** 2024-12-10T21:20:52Z
 
 
 ---
@@ -7847,9 +7847,9 @@ reconFTW is a tool designed to perform automated recon on a target domain by run
 
 GUAC aggregates software security metadata into a high fidelity graph database.
 
-**Stars:** 1297 | **Language:** Go
+**Stars:** 1299 | **Language:** Go
 
-**Last Updated:** 2024-12-09T15:29:38Z
+**Last Updated:** 2024-12-10T19:14:18Z
 
 
 ---
@@ -7880,9 +7880,9 @@ Rockyou for web fuzzing
 
 The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 
-**Stars:** 4603 | **Language:** None
+**Stars:** 4604 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:49:06Z
+**Last Updated:** 2024-12-10T14:34:56Z
 
 
 ---
@@ -7924,9 +7924,9 @@ A hacking tool for bug bounties. Sharing and modifying is encouraged!
 
 Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
 
-**Stars:** 20959 | **Language:** Go
+**Stars:** 20972 | **Language:** Go
 
-**Last Updated:** 2024-12-09T21:59:50Z
+**Last Updated:** 2024-12-10T21:15:36Z
 
 
 ---
@@ -7937,7 +7937,7 @@ Automated pentest reporting with custom Word templates, project tracking, and cl
 
 **Stars:** 813 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T19:01:11Z
+**Last Updated:** 2024-12-10T19:17:51Z
 
 
 ---
@@ -7946,9 +7946,9 @@ Automated pentest reporting with custom Word templates, project tracking, and cl
 
 PowerHuntShares is an audit script designed in inventory, analyze, and report excessive privileges configured on Active Directory domains.
 
-**Stars:** 714 | **Language:** PowerShell
+**Stars:** 715 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-08T11:52:46Z
+**Last Updated:** 2024-12-10T09:49:04Z
 
 
 ---
@@ -7957,9 +7957,9 @@ PowerHuntShares is an audit script designed in inventory, analyze, and report ex
 
 Aftermath is a free macOS IR framework
 
-**Stars:** 481 | **Language:** Swift
+**Stars:** 483 | **Language:** Swift
 
-**Last Updated:** 2024-12-02T09:26:29Z
+**Last Updated:** 2024-12-10T20:36:21Z
 
 
 ---
@@ -7990,9 +7990,9 @@ A highly configurable, multi-protocol DNS forwarding proxy
 
 In-depth attack surface mapping and asset discovery
 
-**Stars:** 12173 | **Language:** Go
+**Stars:** 12175 | **Language:** Go
 
-**Last Updated:** 2024-12-09T19:26:32Z
+**Last Updated:** 2024-12-10T18:46:49Z
 
 
 ---
@@ -8001,9 +8001,9 @@ In-depth attack surface mapping and asset discovery
 
 A tool for parsing breached passwords
 
-**Stars:** 1878 | **Language:** Shell
+**Stars:** 1877 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T18:18:39Z
+**Last Updated:** 2024-12-10T11:10:11Z
 
 
 ---
@@ -8012,9 +8012,9 @@ A tool for parsing breached passwords
 
 Never ever ever use pixelation as a redaction technique
 
-**Stars:** 7816 | **Language:** TypeScript
+**Stars:** 7817 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T10:08:54Z
+**Last Updated:** 2024-12-10T02:03:54Z
 
 
 ---
@@ -8023,9 +8023,9 @@ Never ever ever use pixelation as a redaction technique
 
 Adversary Emulation Framework
 
-**Stars:** 8652 | **Language:** Go
+**Stars:** 8659 | **Language:** Go
 
-**Last Updated:** 2024-12-09T17:15:05Z
+**Last Updated:** 2024-12-10T11:44:54Z
 
 
 ---
@@ -8045,9 +8045,9 @@ Finding all things on-prem Microsoft for password spraying and enumeration.
 
 Microsoft signed ActiveDirectory PowerShell module
 
-**Stars:** 851 | **Language:** PowerShell
+**Stars:** 853 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-06T11:11:48Z
+**Last Updated:** 2024-12-10T07:10:41Z
 
 
 ---
@@ -8056,9 +8056,9 @@ Microsoft signed ActiveDirectory PowerShell module
 
 This repository is a collection of all my Hak5 ducky script payloads written for iOS with a focus on iPhone
 
-**Stars:** 65 | **Language:** None
+**Stars:** 64 | **Language:** None
 
-**Last Updated:** 2024-12-08T03:25:59Z
+**Last Updated:** 2024-12-10T09:28:11Z
 
 
 ---
@@ -8089,9 +8089,9 @@ HardeningKitty - Checks and hardens your Windows configuration
 
 Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 
-**Stars:** 6411 | **Language:** JavaScript
+**Stars:** 6410 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-08T20:28:24Z
+**Last Updated:** 2024-12-10T18:53:02Z
 
 
 ---
@@ -8122,9 +8122,9 @@ A collection of snippets of codes and commands to make your life easier!
 
 WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
-**Stars:** 23432 | **Language:** C++
+**Stars:** 23434 | **Language:** C++
 
-**Last Updated:** 2024-12-09T23:07:27Z
+**Last Updated:** 2024-12-10T22:06:04Z
 
 
 ---
@@ -8133,9 +8133,9 @@ WinGet is the Windows Package Manager. This project includes a CLI (Command Line
 
 Open Source Vulnerability Management Platform
 
-**Stars:** 5086 | **Language:** Python
+**Stars:** 5089 | **Language:** Python
 
-**Last Updated:** 2024-12-09T14:34:56Z
+**Last Updated:** 2024-12-10T13:56:28Z
 
 
 ---
@@ -8157,7 +8157,7 @@ An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Gl
 
 **Stars:** 3762 | **Language:** HTML
 
-**Last Updated:** 2024-12-07T09:17:26Z
+**Last Updated:** 2024-12-10T12:29:35Z
 
 
 ---
@@ -8166,9 +8166,9 @@ An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Gl
 
 HomePwn - Swiss Army Knife for Pentesting of IoT Devices
 
-**Stars:** 882 | **Language:** Python
+**Stars:** 883 | **Language:** Python
 
-**Last Updated:** 2024-12-09T11:02:43Z
+**Last Updated:** 2024-12-10T11:34:35Z
 
 
 ---
@@ -8221,9 +8221,9 @@ Ronin is a Free and Open Source Ruby Toolkit for Security Research and Developme
 
 The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
-**Stars:** 37780 | **Language:** Python
+**Stars:** 37803 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:53:16Z
+**Last Updated:** 2024-12-10T23:42:30Z
 
 
 ---
@@ -8265,9 +8265,9 @@ The Official WiFi Pineapple Module Repository for the WiFi Pineapple Mark VII
 
 Official payload library for the O.MG line of products from Mischief Gadgets
 
-**Stars:** 821 | **Language:** HTML
+**Stars:** 822 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T19:50:57Z
+**Last Updated:** 2024-12-10T17:21:37Z
 
 
 ---
@@ -8276,9 +8276,9 @@ Official payload library for the O.MG line of products from Mischief Gadgets
 
 The Official Bash Bunny Payload Repository
 
-**Stars:** 2660 | **Language:** PowerShell
+**Stars:** 2661 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T04:40:55Z
+**Last Updated:** 2024-12-10T11:02:19Z
 
 
 ---
@@ -8287,9 +8287,9 @@ The Official Bash Bunny Payload Repository
 
 The Official USB Rubber Ducky Payload Repository
 
-**Stars:** 4227 | **Language:** PowerShell
+**Stars:** 4230 | **Language:** PowerShell
 
-**Last Updated:** 2024-12-09T13:03:53Z
+**Last Updated:** 2024-12-10T18:08:56Z
 
 
 ---
@@ -8298,9 +8298,9 @@ The Official USB Rubber Ducky Payload Repository
 
 Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
 
-**Stars:** 8482 | **Language:** Python
+**Stars:** 8485 | **Language:** Python
 
-**Last Updated:** 2024-12-09T11:04:31Z
+**Last Updated:** 2024-12-10T22:28:28Z
 
 
 ---
@@ -8331,9 +8331,9 @@ Collection of knowledge about information security
 
 Binary instrumentation framework based on FRIDA
 
-**Stars:** 1586 | **Language:** Python
+**Stars:** 1588 | **Language:** Python
 
-**Last Updated:** 2024-12-09T09:11:17Z
+**Last Updated:** 2024-12-10T09:37:36Z
 
 
 ---
@@ -8364,9 +8364,9 @@ Linux anti-debugging and anti-analysis rust library
 
 OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
-**Stars:** 37109 | **Language:** Python
+**Stars:** 37112 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:12:10Z
+**Last Updated:** 2024-12-10T19:53:41Z
 
 
 ---
@@ -8386,9 +8386,9 @@ Information and PoC about the ENLBufferPwn vulnerability
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
-**Stars:** 59128 | **Language:** PHP
+**Stars:** 59158 | **Language:** PHP
 
-**Last Updated:** 2024-12-09T23:21:06Z
+**Last Updated:** 2024-12-10T22:41:47Z
 
 
 ---
@@ -8397,9 +8397,9 @@ SecLists is the security tester's companion. It's a collection of multiple types
 
 Scapy: the Python-based interactive packet manipulation program & library.
 
-**Stars:** 10846 | **Language:** Python
+**Stars:** 10850 | **Language:** Python
 
-**Last Updated:** 2024-12-09T19:34:49Z
+**Last Updated:** 2024-12-10T23:48:31Z
 
 
 ---
@@ -8408,9 +8408,9 @@ Scapy: the Python-based interactive packet manipulation program & library.
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 
-**Stars:** 11520 | **Language:** Assembly
+**Stars:** 11530 | **Language:** Assembly
 
-**Last Updated:** 2024-12-09T21:12:40Z
+**Last Updated:** 2024-12-10T22:29:03Z
 
 
 ---
@@ -8419,9 +8419,9 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 Examples and guides for using the OpenAI API
 
-**Stars:** 60543 | **Language:** MDX
+**Stars:** 60557 | **Language:** MDX
 
-**Last Updated:** 2024-12-09T22:34:45Z
+**Last Updated:** 2024-12-10T23:51:43Z
 
 
 ---
@@ -8430,9 +8430,9 @@ Examples and guides for using the OpenAI API
 
 Point cloud diffusion for 3D model synthesis
 
-**Stars:** 6565 | **Language:** Python
+**Stars:** 6568 | **Language:** Python
 
-**Last Updated:** 2024-12-09T17:51:18Z
+**Last Updated:** 2024-12-10T13:43:41Z
 
 
 ---
@@ -8441,9 +8441,9 @@ Point cloud diffusion for 3D model synthesis
 
 A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.
 
-**Stars:** 3948 | **Language:** C
+**Stars:** 3949 | **Language:** C
 
-**Last Updated:** 2024-12-09T18:24:01Z
+**Last Updated:** 2024-12-10T03:17:45Z
 
 
 ---
@@ -8452,9 +8452,9 @@ A portable device that can spoof/emulate any magnetic stripe, credit card or hot
 
 A collection of useful .gitignore templates
 
-**Stars:** 162987 | **Language:** None
+**Stars:** 163008 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:36:52Z
+**Last Updated:** 2024-12-10T23:46:50Z
 
 
 ---
@@ -8485,9 +8485,9 @@ A small and simple java API for the Matrix ClientServer Protocol
 
 Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 
-**Stars:** 23871 | **Language:** TypeScript
+**Stars:** 23875 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T23:48:26Z
+**Last Updated:** 2024-12-10T21:26:37Z
 
 
 ---
@@ -8518,9 +8518,9 @@ Here is some resources about macOS/iOS system security.
 
 Stable Diffusion web UI
 
-**Stars:** 144159 | **Language:** Python
+**Stars:** 144206 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:56:44Z
+**Last Updated:** 2024-12-10T23:57:17Z
 
 
 ---
@@ -8529,9 +8529,9 @@ Stable Diffusion web UI
 
 Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 
-**Stars:** 9676 | **Language:** JavaScript
+**Stars:** 9679 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T15:02:17Z
+**Last Updated:** 2024-12-10T11:09:03Z
 
 
 ---
@@ -8542,7 +8542,7 @@ Master the command line, in one page
 
 **Stars:** 153979 | **Language:** None
 
-**Last Updated:** 2024-12-09T21:34:46Z
+**Last Updated:** 2024-12-10T22:36:52Z
 
 
 ---
@@ -8551,9 +8551,9 @@ Master the command line, in one page
 
 A collective list of free APIs
 
-**Stars:** 319553 | **Language:** Python
+**Stars:** 319621 | **Language:** Python
 
-**Last Updated:** 2024-12-09T23:09:50Z
+**Last Updated:** 2024-12-10T23:45:13Z
 
 
 ---
@@ -8562,9 +8562,9 @@ A collective list of free APIs
 
 A Collection of application ideas which can be used to improve your coding skills.
 
-**Stars:** 81179 | **Language:** None
+**Stars:** 81203 | **Language:** None
 
-**Last Updated:** 2024-12-10T00:01:17Z
+**Last Updated:** 2024-12-10T23:24:11Z
 
 
 ---
@@ -8573,9 +8573,9 @@ A Collection of application ideas which can be used to improve your coding skill
 
 Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
-**Stars:** 59190 | **Language:** None
+**Stars:** 59215 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:21:17Z
+**Last Updated:** 2024-12-10T22:53:06Z
 
 
 ---
@@ -8584,9 +8584,9 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-**Stars:** 91116 | **Language:** HTML
+**Stars:** 91173 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T23:44:25Z
+**Last Updated:** 2024-12-10T23:47:38Z
 
 
 ---
@@ -8595,9 +8595,9 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 Curated list of project-based tutorials
 
-**Stars:** 206629 | **Language:** None
+**Stars:** 206722 | **Language:** None
 
-**Last Updated:** 2024-12-10T00:00:00Z
+**Last Updated:** 2024-12-10T23:51:56Z
 
 
 ---
@@ -8606,9 +8606,9 @@ Curated list of project-based tutorials
 
 💯 Curated coding interview preparation materials for busy software engineers
 
-**Stars:** 119869 | **Language:** TypeScript
+**Stars:** 119894 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T22:49:17Z
+**Last Updated:** 2024-12-10T22:24:41Z
 
 
 ---
@@ -8617,9 +8617,9 @@ Curated list of project-based tutorials
 
 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
-**Stars:** 188792 | **Language:** JavaScript
+**Stars:** 188805 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T22:47:46Z
+**Last Updated:** 2024-12-10T23:00:27Z
 
 
 ---
@@ -8628,9 +8628,9 @@ Curated list of project-based tutorials
 
 Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-**Stars:** 300888 | **Language:** TypeScript
+**Stars:** 300975 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T23:59:19Z
+**Last Updated:** 2024-12-11T00:01:13Z
 
 
 ---
@@ -8639,9 +8639,9 @@ Interactive roadmaps, guides and other educational content to help developers gr
 
 A complete computer science study plan to become a software engineer.
 
-**Stars:** 307638 | **Language:** None
+**Stars:** 307680 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:36:56Z
+**Last Updated:** 2024-12-10T23:23:04Z
 
 
 ---
@@ -8650,9 +8650,9 @@ A complete computer science study plan to become a software engineer.
 
 :books: Freely available programming books
 
-**Stars:** 341115 | **Language:** HTML
+**Stars:** 341164 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T23:47:29Z
+**Last Updated:** 2024-12-11T00:00:58Z
 
 
 ---
@@ -8661,9 +8661,9 @@ A complete computer science study plan to become a software engineer.
 
 Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
-**Stars:** 20797 | **Language:** Elixir
+**Stars:** 20808 | **Language:** Elixir
 
-**Last Updated:** 2024-12-09T21:22:21Z
+**Last Updated:** 2024-12-10T23:11:26Z
 
 
 ---
@@ -8683,9 +8683,9 @@ Several synchronization primitives and task synchronization mechanisms introduce
 
 Fourth iteration of my personal website built with Gatsby
 
-**Stars:** 7620 | **Language:** JavaScript
+**Stars:** 7621 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T08:36:13Z
+**Last Updated:** 2024-12-10T12:00:55Z
 
 
 ---
@@ -8892,9 +8892,9 @@ Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known
 
 A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
 
-**Stars:** 2531 | **Language:** Go
+**Stars:** 2538 | **Language:** Go
 
-**Last Updated:** 2024-12-09T23:41:51Z
+**Last Updated:** 2024-12-10T15:50:30Z
 
 
 ---
@@ -8903,9 +8903,9 @@ A DNS server that offers useful utilities and services over the DNS protocol. We
 
 Lists and configuration for our DNS blocking service
 
-**Stars:** 1153 | **Language:** Shell
+**Stars:** 1155 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T08:10:55Z
+**Last Updated:** 2024-12-10T14:40:56Z
 
 
 ---
@@ -8914,9 +8914,9 @@ Lists and configuration for our DNS blocking service
 
 The Mullvad VPN client app for desktop and mobile
 
-**Stars:** 5181 | **Language:** Rust
+**Stars:** 5187 | **Language:** Rust
 
-**Last Updated:** 2024-12-09T23:41:29Z
+**Last Updated:** 2024-12-10T16:26:23Z
 
 
 ---
@@ -8925,9 +8925,9 @@ The Mullvad VPN client app for desktop and mobile
 
 An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 
-**Stars:** 3046 | **Language:** Python
+**Stars:** 3048 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:03:29Z
+**Last Updated:** 2024-12-10T20:34:15Z
 
 
 ---
@@ -8969,9 +8969,9 @@ List, wake and scan nodes in a network.
 
 The Github home of Orbot: Tor on Android (Also available on gitlab!)
 
-**Stars:** 2279 | **Language:** Java
+**Stars:** 2282 | **Language:** Java
 
-**Last Updated:** 2024-12-09T13:34:03Z
+**Last Updated:** 2024-12-10T15:55:38Z
 
 
 ---
@@ -9002,9 +9002,9 @@ Obfs4proxy and Snowflake Pluggable Transports for iOS
 
 A collection of iOS Settings URLs
 
-**Stars:** 1508 | **Language:** TypeScript
+**Stars:** 1510 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T11:08:41Z
+**Last Updated:** 2024-12-10T18:59:56Z
 
 
 ---
@@ -9013,9 +9013,9 @@ A collection of iOS Settings URLs
 
 ☁️ Build multimodal AI applications with cloud-native stack
 
-**Stars:** 21169 | **Language:** Python
+**Stars:** 21171 | **Language:** Python
 
-**Last Updated:** 2024-12-09T19:53:18Z
+**Last Updated:** 2024-12-10T23:57:14Z
 
 
 ---
@@ -9024,9 +9024,9 @@ A collection of iOS Settings URLs
 
 🤖 Dependabot's core logic for creating update PRs.
 
-**Stars:** 4756 | **Language:** Ruby
+**Stars:** 4758 | **Language:** Ruby
 
-**Last Updated:** 2024-12-09T20:31:34Z
+**Last Updated:** 2024-12-10T23:10:25Z
 
 
 ---
@@ -9035,9 +9035,9 @@ A collection of iOS Settings URLs
 
 A list of public penetration test reports published by several consulting firms and academic security groups.
 
-**Stars:** 8560 | **Language:** HTML
+**Stars:** 8561 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T17:49:11Z
+**Last Updated:** 2024-12-10T17:23:56Z
 
 
 ---
@@ -9046,9 +9046,9 @@ A list of public penetration test reports published by several consulting firms 
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-**Stars:** 13642 | **Language:** None
+**Stars:** 13647 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:23:45Z
+**Last Updated:** 2024-12-10T23:15:18Z
 
 
 ---
@@ -9145,9 +9145,9 @@ PoC for CVE-2021-3156 (sudo heap overflow)
 
 Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
-**Stars:** 48937 | **Language:** Shell
+**Stars:** 48947 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T22:57:23Z
+**Last Updated:** 2024-12-10T20:39:04Z
 
 
 ---
@@ -9189,9 +9189,9 @@ Creates Wireguard configuration for hub and peers with ease
 
 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-**Stars:** 150827 | **Language:** None
+**Stars:** 150913 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:31:26Z
+**Last Updated:** 2024-12-10T23:53:35Z
 
 
 ---
@@ -9211,9 +9211,9 @@ Talks, presentations, and more
 
 articles
 
-**Stars:** 12950 | **Language:** None
+**Stars:** 12952 | **Language:** None
 
-**Last Updated:** 2024-12-09T21:49:43Z
+**Last Updated:** 2024-12-10T17:48:34Z
 
 
 ---
@@ -9222,9 +9222,9 @@ articles
 
 The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 
-**Stars:** 11809 | **Language:** Python
+**Stars:** 11811 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:04:31Z
+**Last Updated:** 2024-12-10T13:41:57Z
 
 
 ---
@@ -9277,9 +9277,9 @@ Tools, techniques, cheat sheets, and other resources to assist those defending o
 
 A collection of awesome readme templates to display on your profile
 
-**Stars:** 10829 | **Language:** JavaScript
+**Stars:** 10830 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T15:19:23Z
+**Last Updated:** 2024-12-10T20:39:15Z
 
 
 ---
@@ -9288,9 +9288,9 @@ A collection of awesome readme templates to display on your profile
 
 Data set of top third party web domains with rich metadata about them
 
-**Stars:** 1532 | **Language:** JavaScript
+**Stars:** 1534 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T14:33:02Z
+**Last Updated:** 2024-12-10T06:20:49Z
 
 
 ---
@@ -9332,9 +9332,9 @@ Legion is an open source, easy-to-use, super-extensible and semi-automated netwo
 
 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 
-**Stars:** 3119 | **Language:** HTML
+**Stars:** 3120 | **Language:** HTML
 
-**Last Updated:** 2024-12-09T11:23:00Z
+**Last Updated:** 2024-12-10T20:29:23Z
 
 
 ---
@@ -9354,9 +9354,9 @@ Generate colors based on a desired contrast ratio
 
 Create agents that monitor and act on your behalf.  Your agents are standing by!
 
-**Stars:** 43896 | **Language:** Ruby
+**Stars:** 43909 | **Language:** Ruby
 
-**Last Updated:** 2024-12-09T23:34:11Z
+**Last Updated:** 2024-12-10T22:30:35Z
 
 
 ---
@@ -9376,9 +9376,9 @@ A linter tool for Interface Builder
 
 A sniffer for Bluetooth 5 and 4.x LE
 
-**Stars:** 883 | **Language:** Python
+**Stars:** 885 | **Language:** Python
 
-**Last Updated:** 2024-12-07T17:02:39Z
+**Last Updated:** 2024-12-10T07:50:53Z
 
 
 ---
@@ -9387,9 +9387,9 @@ A sniffer for Bluetooth 5 and 4.x LE
 
 Material Design icons by Google (Material Symbols)
 
-**Stars:** 50809 | **Language:** None
+**Stars:** 50812 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:38:00Z
+**Last Updated:** 2024-12-10T16:51:54Z
 
 
 ---
@@ -9398,9 +9398,9 @@ Material Design icons by Google (Material Symbols)
 
 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 
-**Stars:** 37107 | **Language:** Python
+**Stars:** 37121 | **Language:** Python
 
-**Last Updated:** 2024-12-09T20:40:41Z
+**Last Updated:** 2024-12-11T00:01:23Z
 
 
 ---
@@ -9409,9 +9409,9 @@ An interactive TLS-capable intercepting HTTP proxy for penetration testers and s
 
 Checklist of the most important security countermeasures when designing, testing, and releasing your API
 
-**Stars:** 22523 | **Language:** None
+**Stars:** 22528 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:26:21Z
+**Last Updated:** 2024-12-10T14:35:06Z
 
 
 ---
@@ -9420,9 +9420,9 @@ Checklist of the most important security countermeasures when designing, testing
 
 A collection of various awesome lists for hackers, pentesters and security researchers
 
-**Stars:** 86398 | **Language:** None
+**Stars:** 86439 | **Language:** None
 
-**Last Updated:** 2024-12-09T21:10:25Z
+**Last Updated:** 2024-12-11T00:01:51Z
 
 
 ---
@@ -9486,9 +9486,9 @@ An iOS framework that provides Mobile Sensing to your apps.
 
 MotionSense Dataset for Human Activity and Attribute Recognition ( time-series data generated by smartphone's sensors: accelerometer and gyroscope) (PMC Journal) (IoTDI'19)
 
-**Stars:** 326 | **Language:** Jupyter Notebook
+**Stars:** 327 | **Language:** Jupyter Notebook
 
-**Last Updated:** 2024-12-09T06:01:41Z
+**Last Updated:** 2024-12-10T08:56:07Z
 
 
 ---
@@ -9499,7 +9499,7 @@ The Hunting ELK
 
 **Stars:** 3780 | **Language:** Jupyter Notebook
 
-**Last Updated:** 2024-12-09T19:34:44Z
+**Last Updated:** 2024-12-10T15:10:39Z
 
 
 ---
@@ -9508,9 +9508,9 @@ The Hunting ELK
 
 A tool for linting storyboard and xib files
 
-**Stars:** 519 | **Language:** Python
+**Stars:** 518 | **Language:** Python
 
-**Last Updated:** 2024-11-22T15:57:12Z
+**Last Updated:** 2024-12-10T20:59:28Z
 
 
 ---
@@ -9519,9 +9519,9 @@ A tool for linting storyboard and xib files
 
 Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
-**Stars:** 84855 | **Language:** TypeScript
+**Stars:** 84869 | **Language:** TypeScript
 
-**Last Updated:** 2024-12-09T23:14:56Z
+**Last Updated:** 2024-12-10T21:59:18Z
 
 
 ---
@@ -9530,9 +9530,9 @@ Storybook is the industry standard workshop for building, documenting, and testi
 
 Awesome React Native components, news, tools, and learning material!
 
-**Stars:** 34734 | **Language:** JavaScript
+**Stars:** 34738 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T22:16:05Z
+**Last Updated:** 2024-12-10T22:01:45Z
 
 
 ---
@@ -9563,9 +9563,9 @@ Finding your way through buildings and campuses through the power of augmented r
 
 😎 Awesome lists about all kinds of interesting topics
 
-**Stars:** 336656 | **Language:** None
+**Stars:** 336809 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:30:53Z
+**Last Updated:** 2024-12-10T23:53:19Z
 
 
 ---
@@ -9574,9 +9574,9 @@ Finding your way through buildings and campuses through the power of augmented r
 
 This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.
 
-**Stars:** 19196 | **Language:** Jupyter Notebook
+**Stars:** 19209 | **Language:** Jupyter Notebook
 
-**Last Updated:** 2024-12-09T20:26:33Z
+**Last Updated:** 2024-12-10T21:14:11Z
 
 
 ---
@@ -9596,9 +9596,9 @@ Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 
 Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 
-**Stars:** 10373 | **Language:** JavaScript
+**Stars:** 10380 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T23:39:36Z
+**Last Updated:** 2024-12-10T23:58:14Z
 
 
 ---
@@ -9629,9 +9629,9 @@ OWASP iGoat - A Learning Tool for iOS App Pentesting and Security by Swaroop Yer
 
 A curated list of cryptography resources and links.
 
-**Stars:** 5937 | **Language:** None
+**Stars:** 5940 | **Language:** None
 
-**Last Updated:** 2024-12-09T20:31:47Z
+**Last Updated:** 2024-12-10T22:19:28Z
 
 
 ---
@@ -9640,9 +9640,9 @@ A curated list of cryptography resources and links.
 
 A curated list of awesome iOS UI/UX libraries
 
-**Stars:** 11125 | **Language:** None
+**Stars:** 11126 | **Language:** None
 
-**Last Updated:** 2024-12-07T02:58:45Z
+**Last Updated:** 2024-12-10T14:34:45Z
 
 
 ---
@@ -9651,9 +9651,9 @@ A curated list of awesome iOS UI/UX libraries
 
 A curated list of awesome iOS animation, including Objective-C and Swift libraries
 
-**Stars:** 5254 | **Language:** None
+**Stars:** 5255 | **Language:** None
 
-**Last Updated:** 2024-12-08T05:41:06Z
+**Last Updated:** 2024-12-10T07:10:28Z
 
 
 ---
@@ -9662,9 +9662,9 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 :japanese_castle: Better ways to structure iOS apps
 
-**Stars:** 5130 | **Language:** None
+**Stars:** 5131 | **Language:** None
 
-**Last Updated:** 2024-12-09T17:02:24Z
+**Last Updated:** 2024-12-10T20:13:45Z
 
 
 ---
@@ -9673,9 +9673,9 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 :iphone: Collaborative List of Open-Source iOS Apps
 
-**Stars:** 43030 | **Language:** None
+**Stars:** 43048 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:27:11Z
+**Last Updated:** 2024-12-10T23:12:41Z
 
 
 ---
@@ -9684,9 +9684,9 @@ A curated list of awesome iOS animation, including Objective-C and Swift librari
 
 A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
-**Stars:** 24946 | **Language:** Ruby
+**Stars:** 24949 | **Language:** Ruby
 
-**Last Updated:** 2024-12-09T17:12:28Z
+**Last Updated:** 2024-12-10T14:40:29Z
 
 
 ---
@@ -9695,9 +9695,9 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
   A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
-**Stars:** 16193 | **Language:** None
+**Stars:** 16199 | **Language:** None
 
-**Last Updated:** 2024-12-09T22:58:11Z
+**Last Updated:** 2024-12-10T19:32:42Z
 
 
 ---
@@ -9706,9 +9706,9 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 
-**Stars:** 47566 | **Language:** Swift
+**Stars:** 47578 | **Language:** Swift
 
-**Last Updated:** 2024-12-09T23:14:55Z
+**Last Updated:** 2024-12-10T23:43:14Z
 
 
 ---
@@ -9717,9 +9717,9 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 GRR Rapid Response: remote live forensics for incident response
 
-**Stars:** 4803 | **Language:** Python
+**Stars:** 4805 | **Language:** Python
 
-**Last Updated:** 2024-12-09T13:58:07Z
+**Last Updated:** 2024-12-10T21:59:53Z
 
 
 ---
@@ -9728,9 +9728,9 @@ GRR Rapid Response: remote live forensics for incident response
 
 Disk encryption with strong security based on TrueCrypt
 
-**Stars:** 7021 | **Language:** C
+**Stars:** 7022 | **Language:** C
 
-**Last Updated:** 2024-12-09T20:55:00Z
+**Last Updated:** 2024-12-10T11:55:00Z
 
 
 ---
@@ -9761,9 +9761,9 @@ Unified repository for different Metasploit Framework payloads
 
 Metasploit Framework
 
-**Stars:** 34375 | **Language:** Ruby
+**Stars:** 34379 | **Language:** Ruby
 
-**Last Updated:** 2024-12-09T23:44:07Z
+**Last Updated:** 2024-12-10T16:50:52Z
 
 
 ---
@@ -9783,9 +9783,9 @@ Security Onion 16.04 - Linux distro for threat hunting, enterprise security moni
 
 OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-**Stars:** 4529 | **Language:** C
+**Stars:** 4530 | **Language:** C
 
-**Last Updated:** 2024-12-06T01:12:29Z
+**Last Updated:** 2024-12-10T00:07:03Z
 
 
 ---
@@ -9794,9 +9794,9 @@ OSSEC is an Open Source Host-based Intrusion Detection System that performs log 
 
 Useful IT policies
 
-**Stars:** 4894 | **Language:** None
+**Stars:** 4895 | **Language:** None
 
-**Last Updated:** 2024-11-28T16:31:28Z
+**Last Updated:** 2024-12-10T14:34:50Z
 
 
 ---
@@ -9805,9 +9805,9 @@ Useful IT policies
 
 Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 
-**Stars:** 26689 | **Language:** Shell
+**Stars:** 26688 | **Language:** Shell
 
-**Last Updated:** 2024-12-09T07:34:13Z
+**Last Updated:** 2024-12-10T18:52:16Z
 
 
 ---
@@ -9816,9 +9816,9 @@ Git extensions to provide high-level repository operations for Vincent Driessen'
 
 A list of Free Software network services and web applications which can be hosted on your own servers
 
-**Stars:** 206315 | **Language:** None
+**Stars:** 206456 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:51:30Z
+**Last Updated:** 2024-12-10T23:53:27Z
 
 
 ---
@@ -9827,9 +9827,9 @@ A list of Free Software network services and web applications which can be hoste
 
 Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 
-**Stars:** 4935 | **Language:** Python
+**Stars:** 4938 | **Language:** Python
 
-**Last Updated:** 2024-12-09T08:45:20Z
+**Last Updated:** 2024-12-10T22:15:43Z
 
 
 ---
@@ -9838,9 +9838,9 @@ Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Secur
 
 An Open Source Machine Learning Framework for Everyone
 
-**Stars:** 186757 | **Language:** C++
+**Stars:** 186776 | **Language:** C++
 
-**Last Updated:** 2024-12-09T23:58:53Z
+**Last Updated:** 2024-12-11T00:01:48Z
 
 
 ---
@@ -9849,9 +9849,9 @@ An Open Source Machine Learning Framework for Everyone
 
 Main repository for pfSense
 
-**Stars:** 4967 | **Language:** PHP
+**Stars:** 4969 | **Language:** PHP
 
-**Last Updated:** 2024-12-09T19:00:14Z
+**Last Updated:** 2024-12-10T22:35:12Z
 
 
 ---
@@ -9871,9 +9871,9 @@ Security Tool to Look For Interesting Files in S3 Buckets
 
 The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 
-**Stars:** 16881 | **Language:** JavaScript
+**Stars:** 16887 | **Language:** JavaScript
 
-**Last Updated:** 2024-12-09T18:09:22Z
+**Last Updated:** 2024-12-10T21:33:24Z
 
 
 ---
@@ -9882,9 +9882,9 @@ The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks recon
 
 Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 
-**Stars:** 31696 | **Language:** Python
+**Stars:** 31703 | **Language:** Python
 
-**Last Updated:** 2024-12-09T21:34:41Z
+**Last Updated:** 2024-12-10T16:16:20Z
 
 
 ---
@@ -9904,9 +9904,9 @@ Example Code from Practical Security talk
 
 The iOS Security Testing Framework
 
-**Stars:** 1337 | **Language:** Python
+**Stars:** 1338 | **Language:** Python
 
-**Last Updated:** 2024-12-08T04:26:05Z
+**Last Updated:** 2024-12-10T13:31:57Z
 
 
 ---
@@ -9937,9 +9937,9 @@ user.js -- Firefox configuration hardening
 
 Open-Source Phishing Toolkit
 
-**Stars:** 11835 | **Language:** Go
+**Stars:** 11842 | **Language:** Go
 
-**Last Updated:** 2024-12-09T12:27:26Z
+**Last Updated:** 2024-12-10T19:53:38Z
 
 
 ---
@@ -9981,9 +9981,9 @@ Draw with bare fingers in the air using ARKit
 
 A curated list of awesome Android packages and resources.
 
-**Stars:** 11038 | **Language:** None
+**Stars:** 11039 | **Language:** None
 
-**Last Updated:** 2024-12-09T23:31:00Z
+**Last Updated:** 2024-12-10T06:05:51Z
 
 
 ---
@@ -9992,9 +9992,9 @@ A curated list of awesome Android packages and resources.
 
 A curated list of awesome ARKit projects and resources. Feel free to contribute!
 
-**Stars:** 7877 | **Language:** Swift
+**Stars:** 7878 | **Language:** Swift
 
-**Last Updated:** 2024-12-08T09:14:34Z
+**Last Updated:** 2024-12-10T10:50:48Z
 
 
 ---
